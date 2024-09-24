@@ -1,0 +1,2593 @@
+player ID ,Position ,name ,school ,week ,touchdowns , receptions ,rushing-yards ,recieving-yards ,passing-yards ,field goals ,points allowed ,interceptions
+1000001,QB,Henry Evans,Buffalo Bulls,1,1,9,194,184,248,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,2,1,1,105,239,266,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,3,3,0,75,182,364,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,4,3,3,28,163,298,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,5,4,2,102,59,393,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,6,0,2,45,76,145,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,7,1,10,78,193,274,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,8,3,7,86,47,365,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,9,4,4,38,186,100,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,10,2,8,131,20,363,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,11,1,12,7,89,227,0,0,0
+1000001,QB,Henry Evans,Buffalo Bulls,12,2,4,145,52,318,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,1,2,2,136,171,295,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,2,3,1,54,83,363,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,3,4,10,160,148,175,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,4,0,4,87,2,17,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,5,0,7,39,40,213,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,6,1,8,119,76,72,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,7,1,0,50,108,225,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,8,3,12,66,184,369,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,9,2,13,143,38,327,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,10,4,6,63,107,22,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,11,2,6,56,46,138,0,0,0
+1000002,QB,Eric Kelce,Buffalo Bulls,12,1,4,164,20,292,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,1,2,3,143,250,384,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,2,2,7,72,181,387,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,3,0,8,15,22,95,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,4,3,12,93,178,114,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,5,2,2,55,70,156,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,6,1,8,24,124,248,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,7,0,12,46,101,176,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,8,1,6,22,250,161,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,9,3,9,42,184,166,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,10,1,0,152,53,41,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,11,2,3,69,0,228,0,0,0
+1000003,QB,C.J. Kennedy,Buffalo Bulls,12,3,12,145,227,361,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,1,4,9,177,180,319,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,2,4,10,128,168,16,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,3,2,5,164,168,342,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,4,1,7,93,29,253,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,5,0,7,143,66,311,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,6,3,13,66,18,136,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,7,4,1,171,217,7,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,8,0,10,192,188,133,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,9,0,1,158,215,266,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,10,3,8,149,230,110,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,11,3,12,106,81,128,0,0,0
+1000004,RB,Benjamin Kennedy,Buffalo Bulls,12,4,2,9,15,90,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,1,2,10,194,108,42,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,2,1,12,138,55,288,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,3,4,10,199,71,248,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,4,0,10,53,179,188,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,5,3,3,191,234,215,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,6,3,10,90,144,286,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,7,3,11,100,71,182,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,8,1,13,155,147,34,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,9,3,4,114,129,172,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,10,3,11,195,133,183,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,11,3,11,180,237,85,0,0,0
+1000005,RB,Tom Pierce,Buffalo Bulls,12,4,7,11,137,367,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,1,2,5,163,41,124,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,2,1,6,50,235,203,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,3,0,13,185,190,58,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,4,3,8,53,53,144,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,5,0,8,47,139,390,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,6,3,4,33,129,24,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,7,4,9,6,97,144,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,8,0,6,53,127,285,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,9,1,3,117,12,324,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,10,3,3,120,77,330,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,11,2,9,75,166,205,0,0,0
+1000006,RB,Jonathan Romanoff,Buffalo Bulls,12,0,2,200,61,157,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,1,4,3,62,200,131,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,2,0,13,73,128,192,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,3,0,13,135,30,374,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,4,0,11,56,100,82,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,5,4,13,90,232,97,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,6,1,11,52,53,64,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,7,4,1,42,63,114,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,8,2,13,134,180,270,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,9,1,4,57,138,63,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,10,4,9,63,36,20,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,11,2,5,135,18,251,0,0,0
+1000007,RB,Jesse Love,Buffalo Bulls,12,2,2,94,90,257,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,1,1,2,141,230,371,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,2,0,5,26,71,175,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,3,3,5,55,225,375,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,4,3,0,154,94,49,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,5,0,4,156,144,236,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,6,0,8,106,44,122,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,7,1,7,1,206,263,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,8,0,0,77,172,78,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,9,0,5,195,170,262,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,10,1,4,178,210,93,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,11,4,12,14,11,113,0,0,0
+1000008,WR,Farhan Swift,Buffalo Bulls,12,3,3,79,100,11,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,1,4,10,66,246,110,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,2,3,4,61,173,200,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,3,1,5,125,114,179,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,4,4,9,86,15,241,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,5,0,2,192,93,278,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,6,2,0,182,83,2,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,7,3,1,29,10,238,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,8,1,12,139,198,43,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,9,3,13,96,249,317,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,10,1,13,64,123,47,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,11,3,10,115,129,199,0,0,0
+1000009,WR,Steve Coolage,Buffalo Bulls,12,4,8,86,148,57,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,1,1,0,26,185,273,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,2,0,8,178,17,110,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,3,0,11,91,196,240,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,4,4,1,71,129,384,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,5,2,7,149,140,99,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,6,1,4,174,201,396,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,7,4,1,121,157,99,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,8,1,13,160,127,324,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,9,4,3,133,212,191,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,10,4,7,166,70,155,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,11,0,3,108,89,169,0,0,0
+1000010,WR,Kyle Gordon,Buffalo Bulls,12,0,1,179,196,203,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,1,2,9,2,208,121,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,2,3,0,110,149,205,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,3,2,10,59,99,51,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,4,2,5,158,165,387,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,5,4,8,131,72,246,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,6,4,8,183,162,396,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,7,0,7,45,90,138,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,8,2,6,189,92,204,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,9,4,2,143,28,380,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,10,2,2,180,178,296,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,11,2,12,105,108,157,0,0,0
+1000011,WR,Donald Purdy,Buffalo Bulls,12,4,0,146,65,381,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,1,0,10,177,200,228,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,2,0,10,51,182,392,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,3,1,5,20,136,364,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,4,3,2,152,217,98,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,5,1,2,141,88,80,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,6,1,11,43,68,45,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,7,2,7,175,86,338,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,8,0,12,101,177,187,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,9,0,7,76,60,311,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,10,1,8,113,151,328,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,11,4,13,56,154,111,0,0,0
+1000012,WR,Mohammad Wayne,Buffalo Bulls,12,1,6,104,39,215,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,1,3,6,67,46,29,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,2,0,12,162,98,400,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,3,2,10,98,132,215,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,4,2,3,147,44,158,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,5,0,0,108,142,239,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,6,3,10,156,108,286,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,7,3,10,60,85,340,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,8,0,9,178,125,134,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,9,2,6,88,201,345,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,10,4,12,5,70,90,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,11,0,6,157,167,224,0,0,0
+1000013,WR,John Gordo,Buffalo Bulls,12,1,3,3,167,151,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,1,3,5,184,141,137,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,2,0,4,143,207,238,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,3,0,10,49,188,31,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,4,3,9,51,169,219,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,5,4,9,76,4,15,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,6,0,4,84,163,298,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,7,1,13,55,202,145,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,8,0,2,183,107,166,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,9,1,1,65,226,339,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,10,2,5,171,236,199,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,11,0,3,47,202,386,0,0,0
+1000014,TE,Thomas Swift,Buffalo Bulls,12,1,4,127,159,309,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,1,4,5,197,152,153,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,2,3,10,30,108,147,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,3,4,2,65,103,110,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,4,0,13,46,210,331,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,5,3,8,37,138,320,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,6,4,11,180,200,234,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,7,3,9,139,35,169,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,8,0,4,93,68,230,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,9,3,6,65,108,71,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,10,1,12,19,104,263,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,11,1,3,71,99,338,0,0,0
+1000015,TE,Tom Evans,Buffalo Bulls,12,3,11,188,90,346,0,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,1,0,0,0,0,0,0,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,2,0,0,0,0,0,0,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,3,0,0,0,0,0,3,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,4,0,0,0,0,0,5,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,5,0,0,0,0,0,2,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,6,0,0,0,0,0,0,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,7,0,0,0,0,0,0,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,8,0,0,0,0,0,1,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,9,0,0,0,0,0,1,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,10,0,0,0,0,0,4,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,11,0,0,0,0,0,5,0,0
+1000016,k,Eric Jefferson,Buffalo Bulls,12,0,0,0,0,0,0,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,1,0,0,0,0,0,2,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,2,0,0,0,0,0,3,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,3,0,0,0,0,0,5,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,4,0,0,0,0,0,5,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,5,0,0,0,0,0,4,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,6,0,0,0,0,0,1,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,7,0,0,0,0,0,1,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,8,0,0,0,0,0,4,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,9,0,0,0,0,0,4,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,10,0,0,0,0,0,2,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,11,0,0,0,0,0,0,0,0
+1000017,k,Jarvis Johnson,Buffalo Bulls,12,0,0,0,0,0,6,0,0
+1000018,D,Buffalo Bulls,Buffalo Bulls,1,0,0,0,0,0,0,36,2
+1000018,D,Buffalo Bulls,Buffalo Bulls,2,0,0,0,0,0,0,18,0
+1000018,D,Buffalo Bulls,Buffalo Bulls,3,0,0,0,0,0,0,30,0
+1000018,D,Buffalo Bulls,Buffalo Bulls,4,0,0,0,0,0,0,11,5
+1000018,D,Buffalo Bulls,Buffalo Bulls,5,0,0,0,0,0,0,46,2
+1000018,D,Buffalo Bulls,Buffalo Bulls,6,0,0,0,0,0,0,9,1
+1000018,D,Buffalo Bulls,Buffalo Bulls,7,0,0,0,0,0,0,19,1
+1000018,D,Buffalo Bulls,Buffalo Bulls,8,0,0,0,0,0,0,46,0
+1000018,D,Buffalo Bulls,Buffalo Bulls,9,0,0,0,0,0,0,41,3
+1000018,D,Buffalo Bulls,Buffalo Bulls,10,0,0,0,0,0,0,28,1
+1000018,D,Buffalo Bulls,Buffalo Bulls,11,0,0,0,0,0,0,2,2
+1000018,D,Buffalo Bulls,Buffalo Bulls,12,0,0,0,0,0,0,26,5
+1000019,QB,Jeff Kennedy,Akron Zips,1,4,6,49,4,220,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,2,3,4,115,125,77,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,3,3,3,53,170,20,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,4,3,4,140,15,182,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,5,4,7,190,244,390,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,6,1,3,91,242,65,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,7,3,9,8,241,288,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,8,0,9,46,103,145,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,9,1,3,151,153,218,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,10,1,1,70,185,353,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,11,2,1,16,161,205,0,0,0
+1000019,QB,Jeff Kennedy,Akron Zips,12,2,6,86,5,98,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,1,0,11,42,221,328,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,2,3,0,149,53,400,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,3,4,3,91,134,102,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,4,4,11,199,76,239,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,5,0,2,101,196,184,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,6,0,7,153,205,322,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,7,3,1,88,185,78,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,8,2,9,60,33,270,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,9,4,12,5,72,340,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,10,4,1,100,137,343,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,11,1,4,184,213,260,0,0,0
+1000020,QB,Brett Leonard,Akron Zips,12,0,11,175,181,293,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,1,4,5,67,208,139,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,2,3,8,120,172,56,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,3,1,6,13,116,112,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,4,3,11,77,203,47,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,5,3,2,178,97,32,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,6,0,6,121,191,123,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,7,2,10,35,122,92,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,8,3,0,73,140,306,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,9,4,13,79,204,86,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,10,0,4,94,188,240,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,11,4,4,19,12,201,0,0,0
+1000021,QB,Christian Mahomes,Akron Zips,12,3,8,19,174,285,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,1,2,5,44,141,145,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,2,3,12,162,32,56,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,3,1,0,77,55,95,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,4,0,12,27,20,276,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,5,2,5,136,126,231,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,6,4,9,14,92,16,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,7,3,6,187,189,295,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,8,0,13,130,189,57,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,9,1,1,182,0,367,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,10,4,2,168,150,139,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,11,3,4,79,120,305,0,0,0
+1000022,RB,Adam Cooper,Akron Zips,12,2,0,50,161,241,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,1,3,3,172,14,104,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,2,0,4,165,183,87,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,3,2,0,94,148,81,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,4,0,6,164,112,10,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,5,1,3,8,13,85,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,6,4,0,153,140,361,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,7,4,3,165,16,360,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,8,4,1,21,151,376,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,9,0,7,87,136,260,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,10,3,0,52,210,238,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,11,4,12,18,55,359,0,0,0
+1000023,RB,LeBron Wilson,Akron Zips,12,2,8,11,225,169,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,1,1,3,184,137,339,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,2,2,13,59,144,68,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,3,1,7,134,122,365,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,4,3,12,35,180,109,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,5,1,0,55,149,178,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,6,0,7,17,132,386,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,7,2,5,127,75,42,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,8,3,6,96,194,173,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,9,0,9,170,51,230,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,10,4,5,149,225,367,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,11,0,12,63,104,350,0,0,0
+1000024,RB,Ronald Bush,Akron Zips,12,1,8,90,139,35,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,1,1,2,77,36,304,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,2,3,2,26,41,282,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,3,0,11,182,181,211,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,4,1,10,59,29,6,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,5,2,9,14,26,309,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,6,0,13,54,42,206,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,7,1,6,51,225,203,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,8,2,5,171,78,144,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,9,2,0,38,144,54,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,10,1,11,149,112,324,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,11,4,8,80,122,179,0,0,0
+1000025,RB,Henry Coolage,Akron Zips,12,3,1,22,174,393,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,1,1,1,120,136,211,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,2,3,1,105,147,265,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,3,4,6,145,200,27,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,4,2,1,140,49,254,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,5,1,8,107,115,381,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,6,4,0,155,65,311,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,7,1,1,101,247,300,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,8,0,10,69,164,243,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,9,0,10,126,246,232,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,10,1,0,138,153,214,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,11,3,6,149,207,370,0,0,0
+1000026,WR,Henry Kennedy,Akron Zips,12,4,7,190,221,266,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,1,3,8,61,143,293,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,2,1,5,73,170,73,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,3,1,6,53,29,331,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,4,1,0,187,30,38,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,5,1,9,187,117,192,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,6,1,1,123,135,272,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,7,2,0,2,93,139,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,8,3,9,33,25,398,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,9,1,6,53,122,327,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,10,0,10,85,188,188,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,11,0,1,102,160,393,0,0,0
+1000027,WR,Jonathan Wilson,Akron Zips,12,0,13,147,46,309,0,0,0
+1000028,WR,Steven Swift,Akron Zips,1,3,0,72,29,280,0,0,0
+1000028,WR,Steven Swift,Akron Zips,2,4,11,134,162,217,0,0,0
+1000028,WR,Steven Swift,Akron Zips,3,1,8,53,43,187,0,0,0
+1000028,WR,Steven Swift,Akron Zips,4,3,12,148,204,279,0,0,0
+1000028,WR,Steven Swift,Akron Zips,5,0,7,173,224,129,0,0,0
+1000028,WR,Steven Swift,Akron Zips,6,2,13,2,87,289,0,0,0
+1000028,WR,Steven Swift,Akron Zips,7,0,6,49,135,256,0,0,0
+1000028,WR,Steven Swift,Akron Zips,8,4,11,100,40,171,0,0,0
+1000028,WR,Steven Swift,Akron Zips,9,2,7,182,231,45,0,0,0
+1000028,WR,Steven Swift,Akron Zips,10,0,12,172,39,248,0,0,0
+1000028,WR,Steven Swift,Akron Zips,11,3,7,8,231,60,0,0,0
+1000028,WR,Steven Swift,Akron Zips,12,1,4,194,212,297,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,1,4,0,175,157,398,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,2,4,6,81,58,262,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,3,0,6,92,243,13,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,4,3,11,158,139,232,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,5,4,10,155,10,53,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,6,3,13,100,31,16,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,7,0,3,64,121,348,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,8,3,6,152,152,209,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,9,0,10,138,230,341,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,10,2,8,21,218,67,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,11,4,12,0,158,43,0,0,0
+1000029,WR,Micheal Johnson,Akron Zips,12,4,2,113,246,374,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,1,3,7,179,34,135,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,2,1,2,70,99,249,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,3,0,9,43,74,160,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,4,1,3,41,60,133,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,5,3,11,157,88,152,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,6,1,12,112,52,257,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,7,0,3,10,225,181,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,8,1,1,131,146,85,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,9,2,4,112,150,185,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,10,1,12,157,195,28,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,11,4,12,106,158,97,0,0,0
+1000030,WR,Roger Wilson,Akron Zips,12,3,10,171,76,346,0,0,0
+1000031,WR,Harold Banner,Akron Zips,1,3,1,150,214,206,0,0,0
+1000031,WR,Harold Banner,Akron Zips,2,1,4,125,215,49,0,0,0
+1000031,WR,Harold Banner,Akron Zips,3,1,12,191,191,126,0,0,0
+1000031,WR,Harold Banner,Akron Zips,4,2,1,135,136,26,0,0,0
+1000031,WR,Harold Banner,Akron Zips,5,1,3,144,183,287,0,0,0
+1000031,WR,Harold Banner,Akron Zips,6,4,1,9,63,348,0,0,0
+1000031,WR,Harold Banner,Akron Zips,7,0,10,9,64,241,0,0,0
+1000031,WR,Harold Banner,Akron Zips,8,0,1,137,140,192,0,0,0
+1000031,WR,Harold Banner,Akron Zips,9,4,0,70,116,66,0,0,0
+1000031,WR,Harold Banner,Akron Zips,10,2,9,97,90,218,0,0,0
+1000031,WR,Harold Banner,Akron Zips,11,2,1,190,91,386,0,0,0
+1000031,WR,Harold Banner,Akron Zips,12,2,0,170,67,388,0,0,0
+1000032,TE,James Murray,Akron Zips,1,0,11,4,15,43,0,0,0
+1000032,TE,James Murray,Akron Zips,2,4,8,110,110,21,0,0,0
+1000032,TE,James Murray,Akron Zips,3,4,4,68,116,228,0,0,0
+1000032,TE,James Murray,Akron Zips,4,0,9,156,90,183,0,0,0
+1000032,TE,James Murray,Akron Zips,5,1,11,78,112,4,0,0,0
+1000032,TE,James Murray,Akron Zips,6,0,5,138,41,49,0,0,0
+1000032,TE,James Murray,Akron Zips,7,1,0,34,61,133,0,0,0
+1000032,TE,James Murray,Akron Zips,8,2,1,194,163,271,0,0,0
+1000032,TE,James Murray,Akron Zips,9,2,5,83,220,274,0,0,0
+1000032,TE,James Murray,Akron Zips,10,2,12,78,228,128,0,0,0
+1000032,TE,James Murray,Akron Zips,11,0,1,177,203,362,0,0,0
+1000032,TE,James Murray,Akron Zips,12,3,9,101,92,352,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,1,4,1,73,37,180,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,2,3,9,109,171,39,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,3,3,6,7,16,333,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,4,1,1,112,228,399,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,5,4,5,172,169,90,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,6,4,13,185,215,160,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,7,1,11,40,83,99,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,8,1,10,53,163,129,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,9,2,9,39,16,8,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,10,0,6,119,180,52,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,11,3,2,89,224,355,0,0,0
+1000033,TE,Bryan Jobs,Akron Zips,12,0,10,137,121,78,0,0,0
+1000034,k,Peter Quill,Akron Zips,1,0,0,0,0,0,6,0,0
+1000034,k,Peter Quill,Akron Zips,2,0,0,0,0,0,1,0,0
+1000034,k,Peter Quill,Akron Zips,3,0,0,0,0,0,1,0,0
+1000034,k,Peter Quill,Akron Zips,4,0,0,0,0,0,5,0,0
+1000034,k,Peter Quill,Akron Zips,5,0,0,0,0,0,3,0,0
+1000034,k,Peter Quill,Akron Zips,6,0,0,0,0,0,3,0,0
+1000034,k,Peter Quill,Akron Zips,7,0,0,0,0,0,1,0,0
+1000034,k,Peter Quill,Akron Zips,8,0,0,0,0,0,5,0,0
+1000034,k,Peter Quill,Akron Zips,9,0,0,0,0,0,1,0,0
+1000034,k,Peter Quill,Akron Zips,10,0,0,0,0,0,1,0,0
+1000034,k,Peter Quill,Akron Zips,11,0,0,0,0,0,2,0,0
+1000034,k,Peter Quill,Akron Zips,12,0,0,0,0,0,3,0,0
+1000035,k,Steve Heartly,Akron Zips,1,0,0,0,0,0,4,0,0
+1000035,k,Steve Heartly,Akron Zips,2,0,0,0,0,0,2,0,0
+1000035,k,Steve Heartly,Akron Zips,3,0,0,0,0,0,2,0,0
+1000035,k,Steve Heartly,Akron Zips,4,0,0,0,0,0,3,0,0
+1000035,k,Steve Heartly,Akron Zips,5,0,0,0,0,0,4,0,0
+1000035,k,Steve Heartly,Akron Zips,6,0,0,0,0,0,2,0,0
+1000035,k,Steve Heartly,Akron Zips,7,0,0,0,0,0,0,0,0
+1000035,k,Steve Heartly,Akron Zips,8,0,0,0,0,0,4,0,0
+1000035,k,Steve Heartly,Akron Zips,9,0,0,0,0,0,0,0,0
+1000035,k,Steve Heartly,Akron Zips,10,0,0,0,0,0,6,0,0
+1000035,k,Steve Heartly,Akron Zips,11,0,0,0,0,0,1,0,0
+1000035,k,Steve Heartly,Akron Zips,12,0,0,0,0,0,1,0,0
+1000036,D,Akron Zips,Akron Zips,1,0,0,0,0,0,0,28,0
+1000036,D,Akron Zips,Akron Zips,2,0,0,0,0,0,0,31,0
+1000036,D,Akron Zips,Akron Zips,3,0,0,0,0,0,0,43,4
+1000036,D,Akron Zips,Akron Zips,4,0,0,0,0,0,0,0,1
+1000036,D,Akron Zips,Akron Zips,5,0,0,0,0,0,0,4,5
+1000036,D,Akron Zips,Akron Zips,6,0,0,0,0,0,0,19,1
+1000036,D,Akron Zips,Akron Zips,7,0,0,0,0,0,0,47,5
+1000036,D,Akron Zips,Akron Zips,8,0,0,0,0,0,0,33,1
+1000036,D,Akron Zips,Akron Zips,9,0,0,0,0,0,0,40,0
+1000036,D,Akron Zips,Akron Zips,10,0,0,0,0,0,0,26,4
+1000036,D,Akron Zips,Akron Zips,11,0,0,0,0,0,0,33,0
+1000036,D,Akron Zips,Akron Zips,12,0,0,0,0,0,0,29,1
+1000037,QB,Gary Lincoln,Ball State Cardinals,1,4,2,154,60,393,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,2,4,6,185,24,146,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,3,4,9,175,39,71,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,4,1,2,99,177,380,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,5,3,8,182,223,394,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,6,1,1,117,80,69,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,7,0,10,166,190,271,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,8,4,13,3,10,53,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,9,1,13,107,182,200,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,10,4,13,118,16,104,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,11,3,9,58,35,31,0,0,0
+1000037,QB,Gary Lincoln,Ball State Cardinals,12,2,4,198,151,116,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,1,2,12,43,120,25,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,2,3,11,171,249,105,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,3,2,1,176,147,137,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,4,1,3,30,216,46,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,5,2,1,31,17,111,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,6,0,3,84,116,180,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,7,3,3,144,2,296,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,8,4,12,94,62,286,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,9,3,12,27,207,147,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,10,1,8,10,167,258,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,11,1,12,71,37,146,0,0,0
+1000038,QB,Bryan Downey,Ball State Cardinals,12,1,3,12,18,90,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,1,4,11,170,238,244,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,2,0,0,183,100,44,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,3,1,6,75,63,237,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,4,3,7,50,82,20,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,5,3,4,96,201,227,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,6,0,5,36,19,88,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,7,4,6,84,154,15,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,8,0,11,67,247,320,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,9,0,2,66,73,76,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,10,3,4,60,20,243,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,11,3,12,46,71,108,0,0,0
+1000039,QB,Calvin Kent,Ball State Cardinals,12,0,0,110,176,34,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,1,2,0,165,178,111,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,2,3,6,109,60,311,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,3,1,10,73,246,90,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,4,1,5,154,72,371,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,5,3,5,144,214,316,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,6,2,2,155,43,70,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,7,3,11,110,235,133,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,8,0,5,59,1,231,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,9,1,13,143,211,221,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,10,4,1,0,57,155,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,11,3,0,182,226,120,0,0,0
+1000040,RB,Sean Murray,Ball State Cardinals,12,4,7,107,149,13,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,1,2,9,141,10,73,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,2,4,4,130,209,55,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,3,4,8,44,104,55,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,4,0,11,147,69,44,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,5,4,6,21,224,113,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,6,0,8,4,60,263,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,7,1,4,74,186,267,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,8,2,5,4,189,264,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,9,1,8,21,54,69,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,10,2,10,133,233,327,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,11,1,2,36,142,306,0,0,0
+1000041,RB,John Harrison,Ball State Cardinals,12,4,5,51,180,80,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,1,2,6,42,182,132,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,2,1,13,108,196,198,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,3,4,1,51,29,130,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,4,3,8,33,40,4,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,5,2,11,187,178,259,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,6,4,10,59,226,1,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,7,4,7,95,247,145,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,8,0,13,61,138,194,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,9,1,2,54,174,101,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,10,4,13,181,151,105,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,11,2,11,2,8,151,0,0,0
+1000042,RB,Sam Bush,Ball State Cardinals,12,3,3,14,50,0,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,1,3,8,62,132,320,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,2,2,3,100,93,222,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,3,1,7,97,229,269,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,4,2,6,81,106,264,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,5,3,11,58,153,58,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,6,1,12,200,209,82,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,7,2,11,174,21,357,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,8,4,10,1,245,16,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,9,0,4,184,70,313,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,10,3,11,99,38,243,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,11,1,2,58,150,247,0,0,0
+1000043,RB,Austin Romanoff,Ball State Cardinals,12,0,2,55,21,115,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,1,1,8,157,89,132,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,2,4,13,55,172,250,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,3,1,2,158,116,282,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,4,3,5,115,31,67,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,5,2,12,167,77,14,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,6,3,1,119,43,75,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,7,0,7,181,201,375,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,8,2,13,148,28,238,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,9,3,13,127,244,248,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,10,2,7,105,1,77,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,11,2,10,48,109,177,0,0,0
+1000044,WR,Brett Gordon,Ball State Cardinals,12,4,10,157,198,345,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,1,4,8,105,9,85,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,2,2,10,5,4,383,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,3,3,3,73,137,344,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,4,0,0,6,132,281,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,5,0,9,166,170,32,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,6,4,11,144,66,306,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,7,2,13,101,44,122,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,8,4,1,140,136,14,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,9,3,1,93,226,247,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,10,0,5,44,225,268,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,11,0,6,186,104,167,0,0,0
+1000045,WR,Samuel Hoover,Ball State Cardinals,12,0,7,168,106,66,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,1,0,13,62,24,291,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,2,4,2,123,20,126,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,3,4,4,196,54,159,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,4,4,2,146,146,130,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,5,4,10,162,89,347,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,6,3,9,2,186,163,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,7,0,13,73,102,396,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,8,2,12,13,78,78,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,9,3,10,72,157,344,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,10,4,0,103,87,38,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,11,1,13,39,249,280,0,0,0
+1000046,WR,Mohammad Jefferson,Ball State Cardinals,12,2,13,109,86,64,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,1,3,11,23,120,96,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,2,0,3,149,145,125,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,3,1,9,26,24,83,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,4,1,1,148,244,111,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,5,4,9,145,181,105,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,6,0,0,80,88,29,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,7,3,11,56,13,381,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,8,2,12,125,92,320,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,9,4,11,26,208,9,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,10,4,11,119,199,88,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,11,4,3,33,119,142,0,0,0
+1000047,WR,Mohammad Hoover,Ball State Cardinals,12,4,12,193,81,303,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,1,4,5,28,48,13,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,2,3,2,102,115,266,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,3,2,2,173,244,163,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,4,0,10,120,22,182,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,5,0,13,121,61,181,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,6,2,1,51,55,56,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,7,0,3,191,175,220,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,8,0,6,129,13,194,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,9,3,6,11,210,13,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,10,0,9,193,210,104,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,11,0,1,19,147,62,0,0,0
+1000048,WR,Bo Swift,Ball State Cardinals,12,2,4,140,243,331,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,1,1,11,70,190,110,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,2,4,9,16,24,343,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,3,4,9,37,147,36,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,4,1,1,158,141,360,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,5,3,12,17,26,4,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,6,4,1,88,44,131,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,7,3,3,133,134,117,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,8,1,10,96,27,15,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,9,4,13,43,28,39,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,10,0,0,105,119,285,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,11,0,9,111,100,128,0,0,0
+1000049,WR,Hunter Murray,Ball State Cardinals,12,4,13,31,65,91,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,1,3,7,12,53,370,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,2,0,3,65,161,282,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,3,4,0,35,74,108,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,4,4,3,157,45,138,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,5,4,10,120,250,52,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,6,0,13,29,160,360,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,7,2,6,13,54,343,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,8,3,3,40,62,342,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,9,4,13,120,136,81,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,10,0,9,71,228,191,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,11,0,11,124,55,9,0,0,0
+1000050,TE,George Wilson,Ball State Cardinals,12,0,4,55,106,243,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,1,1,0,95,132,49,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,2,1,12,61,105,257,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,3,3,5,34,7,338,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,4,2,10,62,212,389,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,5,4,6,139,221,123,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,6,1,0,71,45,188,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,7,4,12,119,163,301,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,8,2,0,103,80,124,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,9,2,11,45,2,70,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,10,3,4,9,188,400,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,11,4,4,158,148,199,0,0,0
+1000051,TE,Corey Bush,Ball State Cardinals,12,1,11,126,57,381,0,0,0
+1000052,k,Rudy James,Ball State Cardinals,1,0,0,0,0,0,3,0,0
+1000052,k,Rudy James,Ball State Cardinals,2,0,0,0,0,0,1,0,0
+1000052,k,Rudy James,Ball State Cardinals,3,0,0,0,0,0,0,0,0
+1000052,k,Rudy James,Ball State Cardinals,4,0,0,0,0,0,6,0,0
+1000052,k,Rudy James,Ball State Cardinals,5,0,0,0,0,0,0,0,0
+1000052,k,Rudy James,Ball State Cardinals,6,0,0,0,0,0,6,0,0
+1000052,k,Rudy James,Ball State Cardinals,7,0,0,0,0,0,4,0,0
+1000052,k,Rudy James,Ball State Cardinals,8,0,0,0,0,0,4,0,0
+1000052,k,Rudy James,Ball State Cardinals,9,0,0,0,0,0,2,0,0
+1000052,k,Rudy James,Ball State Cardinals,10,0,0,0,0,0,6,0,0
+1000052,k,Rudy James,Ball State Cardinals,11,0,0,0,0,0,3,0,0
+1000052,k,Rudy James,Ball State Cardinals,12,0,0,0,0,0,2,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,1,0,0,0,0,0,6,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,2,0,0,0,0,0,3,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,3,0,0,0,0,0,4,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,4,0,0,0,0,0,5,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,5,0,0,0,0,0,6,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,6,0,0,0,0,0,4,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,7,0,0,0,0,0,2,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,8,0,0,0,0,0,2,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,9,0,0,0,0,0,6,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,10,0,0,0,0,0,3,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,11,0,0,0,0,0,2,0,0
+1000053,k,Jeff Wilson,Ball State Cardinals,12,0,0,0,0,0,5,0,0
+1000054,D,Ball State Cardinals,Ball State Cardinals,1,0,0,0,0,0,0,14,4
+1000054,D,Ball State Cardinals,Ball State Cardinals,2,0,0,0,0,0,0,35,1
+1000054,D,Ball State Cardinals,Ball State Cardinals,3,0,0,0,0,0,0,47,3
+1000054,D,Ball State Cardinals,Ball State Cardinals,4,0,0,0,0,0,0,36,3
+1000054,D,Ball State Cardinals,Ball State Cardinals,5,0,0,0,0,0,0,18,1
+1000054,D,Ball State Cardinals,Ball State Cardinals,6,0,0,0,0,0,0,3,0
+1000054,D,Ball State Cardinals,Ball State Cardinals,7,0,0,0,0,0,0,46,5
+1000054,D,Ball State Cardinals,Ball State Cardinals,8,0,0,0,0,0,0,4,5
+1000054,D,Ball State Cardinals,Ball State Cardinals,9,0,0,0,0,0,0,51,3
+1000054,D,Ball State Cardinals,Ball State Cardinals,10,0,0,0,0,0,0,26,4
+1000054,D,Ball State Cardinals,Ball State Cardinals,11,0,0,0,0,0,0,55,1
+1000054,D,Ball State Cardinals,Ball State Cardinals,12,0,0,0,0,0,0,45,4
+1000055,QB,Hunter Jobs,Bowling Green Falcons,1,3,6,104,148,350,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,2,2,4,192,45,371,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,3,1,1,9,175,352,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,4,3,10,145,197,114,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,5,0,13,135,61,120,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,6,0,5,179,11,393,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,7,2,5,123,13,317,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,8,3,2,12,16,87,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,9,4,10,162,104,310,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,10,1,2,196,47,294,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,11,2,1,114,217,256,0,0,0
+1000055,QB,Hunter Jobs,Bowling Green Falcons,12,0,1,157,183,377,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,1,2,4,160,86,400,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,2,4,3,192,204,133,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,3,0,12,71,74,351,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,4,4,13,78,185,121,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,5,3,3,161,197,53,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,6,2,10,87,171,19,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,7,3,9,126,229,33,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,8,0,1,82,72,244,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,9,2,12,104,41,104,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,10,0,6,0,28,314,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,11,0,10,120,221,46,0,0,0
+1000056,QB,C.J. James,Bowling Green Falcons,12,2,2,28,3,42,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,1,3,10,81,132,57,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,2,4,8,183,151,168,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,3,1,9,190,73,216,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,4,4,1,154,228,44,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,5,3,1,177,79,357,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,6,0,4,151,85,37,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,7,2,10,23,130,140,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,8,4,8,200,57,51,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,9,0,4,156,212,168,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,10,0,11,160,37,248,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,11,2,9,155,68,159,0,0,0
+1000057,QB,Larry Kennedy,Bowling Green Falcons,12,0,0,45,37,364,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,1,1,2,19,120,54,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,2,2,9,14,63,110,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,3,4,5,170,201,178,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,4,2,2,130,222,168,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,5,3,12,81,146,218,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,6,1,7,147,3,389,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,7,2,9,53,75,251,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,8,3,11,24,10,163,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,9,2,12,177,193,154,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,10,2,9,171,136,224,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,11,1,3,111,44,310,0,0,0
+1000058,RB,Amir Banner,Bowling Green Falcons,12,2,1,26,33,59,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,1,0,9,197,116,45,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,2,2,13,86,194,285,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,3,0,2,174,133,365,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,4,3,11,40,113,275,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,5,2,4,15,121,161,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,6,1,7,59,229,292,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,7,1,5,142,205,178,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,8,0,8,165,209,93,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,9,4,13,176,94,311,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,10,3,7,126,140,90,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,11,4,3,128,224,118,0,0,0
+1000059,RB,Richard Golden,Bowling Green Falcons,12,2,8,140,130,400,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,1,0,11,162,27,316,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,2,2,7,42,113,249,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,3,0,3,32,151,388,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,4,3,6,143,106,385,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,5,0,6,23,182,250,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,6,4,5,156,58,291,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,7,2,7,94,143,117,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,8,3,9,156,175,47,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,9,2,13,158,0,7,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,10,4,2,19,71,331,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,11,0,12,25,65,341,0,0,0
+1000060,RB,Noah Gordon,Bowling Green Falcons,12,1,0,97,232,332,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,1,0,7,7,186,116,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,2,4,13,9,169,387,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,3,3,9,126,57,253,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,4,2,4,160,219,28,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,5,3,2,33,39,281,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,6,2,3,74,232,351,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,7,0,11,187,250,256,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,8,0,4,32,72,179,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,9,3,7,67,177,342,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,10,1,12,140,193,321,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,11,2,3,77,225,115,0,0,0
+1000061,RB,Bryan Hoover,Bowling Green Falcons,12,0,6,97,7,351,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,1,0,9,134,232,123,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,2,4,3,20,220,144,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,3,3,4,81,242,30,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,4,1,7,110,23,146,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,5,3,7,140,87,304,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,6,0,1,97,131,213,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,7,4,5,112,152,96,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,8,4,7,68,1,244,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,9,3,6,66,18,12,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,10,0,11,11,168,228,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,11,1,2,108,29,374,0,0,0
+1000062,WR,Ben Obama,Bowling Green Falcons,12,0,6,163,152,95,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,1,4,2,117,78,232,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,2,3,1,167,62,10,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,3,0,4,97,231,10,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,4,4,9,79,28,190,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,5,3,12,64,160,115,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,6,2,3,118,81,359,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,7,4,7,102,138,68,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,8,0,8,65,234,0,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,9,0,1,108,31,291,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,10,4,9,59,166,31,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,11,4,9,189,232,93,0,0,0
+1000063,WR,Jeff Mcdonald,Bowling Green Falcons,12,1,0,129,154,270,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,1,4,13,75,38,287,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,2,4,10,189,30,362,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,3,4,11,177,125,30,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,4,3,9,105,151,74,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,5,4,8,175,102,32,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,6,3,12,96,195,19,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,7,1,7,139,5,49,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,8,1,1,50,193,326,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,9,2,3,168,168,234,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,10,4,4,128,46,19,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,11,0,13,132,61,393,0,0,0
+1000064,WR,Zack Wilson,Bowling Green Falcons,12,2,12,43,174,244,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,1,2,3,59,107,368,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,2,2,10,130,192,25,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,3,0,13,126,215,31,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,4,3,7,183,201,158,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,5,4,7,135,174,19,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,6,3,11,155,11,244,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,7,4,2,15,200,44,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,8,1,7,143,22,199,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,9,0,0,95,10,151,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,10,0,7,74,157,69,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,11,2,4,178,10,275,0,0,0
+1000065,WR,Thomas Pitt,Bowling Green Falcons,12,0,7,9,247,365,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,1,1,3,30,118,140,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,2,2,12,113,31,27,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,3,2,8,192,173,121,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,4,3,12,28,72,124,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,5,0,12,95,68,82,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,6,3,11,151,175,380,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,7,2,2,159,148,30,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,8,4,4,119,11,56,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,9,4,13,6,165,376,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,10,2,2,128,102,5,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,11,4,9,184,60,211,0,0,0
+1000066,WR,Brett James,Bowling Green Falcons,12,2,1,99,170,183,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,1,2,4,66,93,105,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,2,4,7,2,76,372,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,3,0,9,28,87,200,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,4,0,1,154,184,37,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,5,4,4,196,0,80,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,6,1,13,70,1,235,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,7,2,9,31,123,397,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,8,0,1,180,153,319,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,9,0,9,73,234,26,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,10,1,9,88,74,374,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,11,4,0,191,144,58,0,0,0
+1000067,WR,Zack Kent,Bowling Green Falcons,12,4,12,130,171,149,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,1,3,13,96,125,286,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,2,4,7,134,104,335,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,3,3,0,150,97,114,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,4,4,3,197,229,46,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,5,0,10,175,95,332,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,6,1,1,79,16,94,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,7,2,12,100,81,119,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,8,0,7,147,10,346,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,9,1,6,157,138,280,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,10,0,12,97,32,369,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,11,1,13,109,166,281,0,0,0
+1000068,TE,Matt Quill,Bowling Green Falcons,12,4,5,52,21,161,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,1,0,10,11,10,159,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,2,4,2,7,164,159,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,3,1,10,73,212,56,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,4,0,5,21,32,50,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,5,0,12,48,46,270,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,6,3,13,8,66,50,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,7,4,10,195,13,390,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,8,1,2,72,42,291,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,9,2,11,198,185,253,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,10,4,3,43,88,341,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,11,2,4,76,156,394,0,0,0
+1000069,TE,Amir Gordo,Bowling Green Falcons,12,4,12,29,140,338,0,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,1,0,0,0,0,0,1,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,2,0,0,0,0,0,2,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,3,0,0,0,0,0,3,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,4,0,0,0,0,0,1,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,5,0,0,0,0,0,6,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,6,0,0,0,0,0,6,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,7,0,0,0,0,0,4,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,8,0,0,0,0,0,1,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,9,0,0,0,0,0,3,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,10,0,0,0,0,0,5,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,11,0,0,0,0,0,4,0,0
+1000070,k,Jarvis Snow,Bowling Green Falcons,12,0,0,0,0,0,6,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,1,0,0,0,0,0,1,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,2,0,0,0,0,0,2,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,3,0,0,0,0,0,0,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,4,0,0,0,0,0,1,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,5,0,0,0,0,0,5,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,6,0,0,0,0,0,2,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,7,0,0,0,0,0,3,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,8,0,0,0,0,0,0,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,9,0,0,0,0,0,5,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,10,0,0,0,0,0,1,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,11,0,0,0,0,0,1,0,0
+1000071,k,Ralph Pitt,Bowling Green Falcons,12,0,0,0,0,0,4,0,0
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,1,0,0,0,0,0,0,54,4
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,2,0,0,0,0,0,0,17,3
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,3,0,0,0,0,0,0,53,4
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,4,0,0,0,0,0,0,25,0
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,5,0,0,0,0,0,0,13,3
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,6,0,0,0,0,0,0,32,0
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,7,0,0,0,0,0,0,12,4
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,8,0,0,0,0,0,0,52,2
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,9,0,0,0,0,0,0,40,3
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,10,0,0,0,0,0,0,47,3
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,11,0,0,0,0,0,0,0,3
+1000072,D,Bowling Green Falcons,Bowling Green Falcons,12,0,0,0,0,0,0,22,4
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,1,1,6,123,78,366,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,2,1,0,125,73,0,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,3,4,5,89,33,331,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,4,3,12,77,19,214,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,5,0,12,17,51,258,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,6,3,0,188,91,398,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,7,0,10,151,165,121,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,8,2,0,54,89,179,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,9,4,1,89,173,16,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,10,1,12,117,37,146,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,11,0,12,128,243,143,0,0,0
+1000073,QB,Calvin Jefferson,Central Michigan Chippewas,12,4,4,164,35,193,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,1,1,13,18,59,370,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,2,1,6,195,232,39,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,3,3,3,30,4,326,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,4,4,13,118,86,386,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,5,4,2,155,110,228,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,6,0,0,187,114,256,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,7,0,13,139,47,318,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,8,2,12,199,43,41,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,9,1,4,93,219,196,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,10,3,2,16,60,66,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,11,3,4,146,159,107,0,0,0
+1000074,QB,Jordan James,Central Michigan Chippewas,12,3,3,105,137,319,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,1,2,2,20,248,372,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,2,3,4,58,39,290,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,3,4,2,73,55,326,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,4,3,0,62,108,112,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,5,0,3,28,61,143,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,6,0,5,45,27,330,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,7,2,5,162,2,35,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,8,1,8,106,93,38,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,9,3,5,200,168,295,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,10,4,7,47,33,370,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,11,2,0,5,135,175,0,0,0
+1000075,QB,Noah Smith,Central Michigan Chippewas,12,1,13,22,246,146,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,1,1,6,63,69,197,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,2,3,1,45,36,15,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,3,3,13,115,126,161,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,4,2,7,113,225,182,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,5,3,13,81,45,30,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,6,3,2,1,249,117,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,7,1,6,21,91,49,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,8,4,2,79,235,310,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,9,3,3,104,227,112,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,10,2,9,85,137,307,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,11,1,10,199,64,218,0,0,0
+1000076,RB,Sam Quill,Central Michigan Chippewas,12,4,2,51,131,152,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,1,4,12,134,115,199,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,2,0,8,28,100,176,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,3,4,7,171,235,190,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,4,3,1,147,122,330,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,5,2,10,170,179,235,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,6,1,9,195,36,196,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,7,0,7,102,188,161,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,8,3,0,176,246,123,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,9,0,6,42,238,127,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,10,2,4,14,200,66,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,11,3,8,193,7,97,0,0,0
+1000077,RB,Anthony Heartly,Central Michigan Chippewas,12,1,13,135,172,377,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,1,3,2,93,13,18,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,2,2,9,45,238,327,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,3,2,13,149,208,181,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,4,1,5,37,32,352,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,5,3,13,134,172,364,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,6,1,7,46,41,263,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,7,0,5,73,226,389,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,8,1,2,100,40,266,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,9,4,0,92,166,200,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,10,0,1,28,108,15,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,11,1,9,7,243,375,0,0,0
+1000078,RB,Steve Kennedy,Central Michigan Chippewas,12,1,0,131,119,382,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,1,3,6,73,201,81,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,2,2,8,26,200,233,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,3,1,12,102,179,292,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,4,0,10,178,223,27,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,5,2,13,179,18,19,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,6,2,8,177,193,158,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,7,1,8,74,156,104,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,8,4,1,44,91,45,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,9,2,6,61,60,241,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,10,0,3,60,169,151,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,11,4,8,64,124,153,0,0,0
+1000079,RB,Andrew Murray,Central Michigan Chippewas,12,3,0,111,125,198,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,1,4,4,9,249,373,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,2,2,9,43,150,188,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,3,2,7,112,214,49,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,4,2,0,8,205,59,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,5,1,10,35,228,212,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,6,3,1,72,91,370,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,7,2,1,39,1,302,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,8,0,2,182,169,156,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,9,1,9,91,248,310,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,10,1,0,165,156,180,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,11,4,7,110,140,4,0,0,0
+1000080,WR,Sam Jefferson,Central Michigan Chippewas,12,3,10,91,135,243,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,1,0,7,115,234,58,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,2,2,7,137,125,233,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,3,0,5,14,177,296,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,4,0,9,84,88,268,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,5,3,8,81,240,239,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,6,0,4,8,5,399,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,7,4,5,32,91,313,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,8,3,10,141,117,13,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,9,2,4,31,230,141,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,10,4,6,64,138,69,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,11,4,10,121,50,10,0,0,0
+1000081,WR,Steve Filmore,Central Michigan Chippewas,12,3,5,107,183,113,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,1,1,3,185,181,276,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,2,0,3,43,131,62,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,3,1,8,57,119,41,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,4,4,2,27,1,321,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,5,3,2,109,224,280,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,6,4,8,26,22,191,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,7,1,11,129,102,220,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,8,3,1,92,100,322,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,9,3,8,31,247,139,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,10,3,12,160,125,9,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,11,0,8,127,54,56,0,0,0
+1000082,WR,Christian Swift,Central Michigan Chippewas,12,2,13,195,73,83,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,1,1,0,162,159,168,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,2,0,12,143,53,297,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,3,2,11,121,16,46,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,4,2,6,107,118,323,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,5,4,2,55,73,353,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,6,3,10,94,183,47,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,7,4,10,192,197,172,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,8,1,1,128,113,111,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,9,1,13,192,29,281,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,10,0,2,11,46,212,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,11,4,8,134,84,229,0,0,0
+1000083,WR,Harold Johnson,Central Michigan Chippewas,12,0,11,76,73,132,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,1,3,9,169,86,137,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,2,1,12,182,178,367,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,3,2,0,183,115,56,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,4,1,6,143,228,357,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,5,2,9,92,36,311,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,6,4,4,21,249,273,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,7,4,5,137,20,49,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,8,2,6,113,250,127,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,9,3,4,146,30,294,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,10,1,10,67,36,75,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,11,1,3,24,180,136,0,0,0
+1000084,WR,Donald Pierce,Central Michigan Chippewas,12,4,2,158,246,91,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,1,0,7,162,2,153,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,2,1,9,90,129,292,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,3,1,6,58,109,73,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,4,1,13,125,116,240,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,5,3,5,21,197,179,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,6,4,13,113,203,89,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,7,3,5,117,125,327,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,8,2,13,8,30,263,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,9,3,5,34,31,351,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,10,4,1,107,88,78,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,11,0,0,55,5,104,0,0,0
+1000085,WR,Ben Coolage,Central Michigan Chippewas,12,3,8,80,167,25,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,1,2,0,123,202,5,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,2,1,12,117,91,260,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,3,2,3,95,155,284,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,4,3,9,177,95,390,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,5,3,13,175,199,172,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,6,0,5,196,176,178,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,7,4,13,176,105,121,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,8,2,9,68,131,365,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,9,4,2,86,151,365,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,10,2,8,151,125,327,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,11,3,10,15,216,189,0,0,0
+1000086,TE,Amir Quill,Central Michigan Chippewas,12,3,12,175,175,201,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,1,1,6,44,169,339,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,2,1,2,189,116,224,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,3,0,13,74,221,124,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,4,2,2,9,169,153,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,5,2,13,172,121,197,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,6,2,3,136,14,124,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,7,4,3,109,11,34,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,8,4,11,13,198,49,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,9,4,10,113,199,241,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,10,4,13,118,58,133,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,11,0,12,11,218,45,0,0,0
+1000087,TE,Henry Jefferson,Central Michigan Chippewas,12,3,7,53,78,266,0,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,1,0,0,0,0,0,3,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,2,0,0,0,0,0,2,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,3,0,0,0,0,0,5,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,4,0,0,0,0,0,6,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,5,0,0,0,0,0,2,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,6,0,0,0,0,0,5,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,7,0,0,0,0,0,4,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,8,0,0,0,0,0,1,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,9,0,0,0,0,0,3,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,10,0,0,0,0,0,4,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,11,0,0,0,0,0,2,0,0
+1000088,k,Ben Gordon,Central Michigan Chippewas,12,0,0,0,0,0,6,0,0
+1000089,k,George Love,Central Michigan Chippewas,1,0,0,0,0,0,1,0,0
+1000089,k,George Love,Central Michigan Chippewas,2,0,0,0,0,0,5,0,0
+1000089,k,George Love,Central Michigan Chippewas,3,0,0,0,0,0,0,0,0
+1000089,k,George Love,Central Michigan Chippewas,4,0,0,0,0,0,4,0,0
+1000089,k,George Love,Central Michigan Chippewas,5,0,0,0,0,0,5,0,0
+1000089,k,George Love,Central Michigan Chippewas,6,0,0,0,0,0,4,0,0
+1000089,k,George Love,Central Michigan Chippewas,7,0,0,0,0,0,3,0,0
+1000089,k,George Love,Central Michigan Chippewas,8,0,0,0,0,0,5,0,0
+1000089,k,George Love,Central Michigan Chippewas,9,0,0,0,0,0,2,0,0
+1000089,k,George Love,Central Michigan Chippewas,10,0,0,0,0,0,4,0,0
+1000089,k,George Love,Central Michigan Chippewas,11,0,0,0,0,0,5,0,0
+1000089,k,George Love,Central Michigan Chippewas,12,0,0,0,0,0,0,0,0
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,1,0,0,0,0,0,0,42,1
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,2,0,0,0,0,0,0,35,2
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,3,0,0,0,0,0,0,24,1
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,4,0,0,0,0,0,0,53,1
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,5,0,0,0,0,0,0,33,2
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,6,0,0,0,0,0,0,49,3
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,7,0,0,0,0,0,0,44,4
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,8,0,0,0,0,0,0,30,4
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,9,0,0,0,0,0,0,18,4
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,10,0,0,0,0,0,0,7,1
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,11,0,0,0,0,0,0,26,3
+1000090,D,Central Michigan Chippewas,Central Michigan Chippewas,12,0,0,0,0,0,0,50,5
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,1,3,11,76,169,35,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,2,0,2,41,197,344,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,3,3,12,187,16,381,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,4,0,12,163,160,146,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,5,4,13,135,9,185,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,6,3,4,130,80,141,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,7,0,4,12,249,163,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,8,4,6,163,237,126,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,9,4,9,42,223,31,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,10,0,2,148,219,215,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,11,2,8,16,136,171,0,0,0
+1000091,QB,LeBron Wayne,Eastern Michigan Eagles,12,1,5,6,174,253,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,1,1,11,193,200,299,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,2,3,5,180,105,325,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,3,4,2,8,207,205,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,4,0,12,160,81,32,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,5,1,2,164,236,150,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,6,1,7,86,199,302,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,7,4,7,47,22,337,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,8,4,9,71,179,175,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,9,0,13,56,195,382,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,10,4,2,182,103,240,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,11,2,6,64,142,279,0,0,0
+1000092,QB,Tom Kennedy,Eastern Michigan Eagles,12,1,1,102,65,130,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,1,3,11,181,135,350,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,2,3,7,49,229,309,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,3,1,13,60,173,387,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,4,2,4,112,180,309,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,5,4,8,97,221,181,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,6,1,6,145,26,335,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,7,3,12,136,124,139,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,8,1,0,19,50,319,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,9,2,0,94,148,323,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,10,3,6,53,71,135,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,11,3,1,163,218,328,0,0,0
+1000093,QB,Jordan Wilson,Eastern Michigan Eagles,12,0,4,20,131,98,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,1,0,1,166,35,104,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,2,2,1,155,106,42,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,3,3,13,56,1,251,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,4,3,13,180,152,267,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,5,4,12,21,132,10,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,6,0,7,20,105,199,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,7,2,3,48,145,116,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,8,2,12,158,212,75,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,9,3,8,93,111,310,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,10,0,11,27,51,97,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,11,2,6,155,76,186,0,0,0
+1000094,RB,Roger Purdy,Eastern Michigan Eagles,12,1,7,148,151,332,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,1,2,12,38,205,166,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,2,1,9,146,182,204,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,3,3,6,99,33,257,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,4,2,13,44,0,13,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,5,4,7,173,97,137,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,6,4,8,59,124,115,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,7,1,7,65,140,10,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,8,1,11,194,111,42,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,9,2,9,13,31,95,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,10,2,10,12,178,316,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,11,1,7,91,70,344,0,0,0
+1000095,RB,Adam Murray,Eastern Michigan Eagles,12,0,7,151,91,182,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,1,0,4,18,72,127,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,2,2,5,181,222,208,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,3,1,10,111,76,67,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,4,1,4,4,144,381,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,5,3,3,27,40,130,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,6,4,9,154,148,175,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,7,2,5,15,17,14,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,8,4,10,1,184,143,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,9,4,7,111,23,215,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,10,2,9,187,132,262,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,11,1,10,155,213,194,0,0,0
+1000096,RB,Henry Snow,Eastern Michigan Eagles,12,0,9,72,208,1,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,1,4,4,38,11,106,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,2,0,10,79,87,324,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,3,3,4,142,147,36,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,4,1,9,135,4,307,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,5,4,2,115,7,36,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,6,0,8,37,127,122,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,7,1,11,195,18,63,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,8,4,3,47,210,336,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,9,0,5,162,28,289,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,10,0,5,85,133,271,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,11,0,7,151,104,71,0,0,0
+1000097,RB,Peter Kent,Eastern Michigan Eagles,12,2,11,41,42,303,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,1,0,10,27,53,218,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,2,2,7,185,174,280,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,3,1,5,116,234,76,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,4,0,10,162,145,261,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,5,4,8,19,9,290,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,6,4,3,22,142,75,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,7,3,10,82,29,275,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,8,0,4,200,227,103,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,9,0,0,170,145,123,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,10,1,1,50,74,329,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,11,4,6,180,112,84,0,0,0
+1000098,WR,Rudy Smith,Eastern Michigan Eagles,12,3,5,143,127,73,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,1,2,5,106,127,133,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,2,3,9,0,113,101,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,3,1,6,64,129,86,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,4,0,4,190,90,192,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,5,3,9,90,190,202,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,6,4,13,113,216,340,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,7,1,6,105,32,227,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,8,3,10,185,184,177,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,9,2,3,115,6,189,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,10,2,9,78,62,283,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,11,2,10,51,51,41,0,0,0
+1000099,WR,Samuel Quill,Eastern Michigan Eagles,12,4,11,42,195,19,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,1,3,4,37,157,3,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,2,0,7,10,116,354,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,3,1,3,19,21,366,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,4,0,6,142,139,97,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,5,1,1,40,161,368,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,6,1,9,150,105,28,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,7,1,11,173,167,14,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,8,2,6,69,58,211,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,9,4,9,8,63,139,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,10,1,9,39,95,38,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,11,0,9,189,48,289,0,0,0
+1000100,WR,C.J. Gordo,Eastern Michigan Eagles,12,0,5,137,53,205,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,1,1,13,181,245,329,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,2,2,3,126,219,19,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,3,1,9,108,2,105,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,4,3,13,175,168,361,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,5,3,10,188,127,306,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,6,2,3,191,164,89,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,7,2,12,83,3,130,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,8,2,13,40,201,140,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,9,4,13,161,237,283,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,10,2,6,105,182,143,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,11,3,6,146,64,332,0,0,0
+1000101,WR,Mark Kelce,Eastern Michigan Eagles,12,0,8,137,166,6,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,1,4,5,49,176,70,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,2,1,12,70,192,315,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,3,0,2,16,235,147,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,4,1,3,44,225,316,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,5,4,4,200,208,115,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,6,1,1,51,100,9,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,7,2,1,130,68,379,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,8,0,10,147,80,232,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,9,0,6,161,90,120,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,10,2,1,21,242,67,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,11,0,1,9,117,381,0,0,0
+1000102,WR,Andrew Wayne,Eastern Michigan Eagles,12,1,7,115,17,268,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,1,1,4,188,146,147,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,2,4,0,75,22,316,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,3,2,12,85,136,332,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,4,1,3,105,125,288,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,5,4,1,79,77,149,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,6,1,9,125,176,386,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,7,3,3,165,20,56,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,8,4,7,28,35,265,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,9,3,11,167,105,192,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,10,4,13,165,106,170,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,11,2,4,193,149,281,0,0,0
+1000103,WR,Zack Kelce,Eastern Michigan Eagles,12,1,0,169,29,232,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,1,4,1,179,166,192,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,2,4,10,187,79,51,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,3,2,3,26,65,367,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,4,4,8,66,33,23,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,5,4,0,42,61,212,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,6,1,2,123,140,165,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,7,4,4,146,153,397,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,8,4,13,164,130,130,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,9,3,0,45,250,0,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,10,3,5,67,110,37,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,11,3,0,6,64,376,0,0,0
+1000104,TE,Richard Brady,Eastern Michigan Eagles,12,0,9,52,203,157,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,1,3,1,126,68,268,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,2,4,3,179,201,290,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,3,3,5,192,239,44,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,4,4,1,117,73,70,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,5,2,7,68,151,78,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,6,2,6,50,12,117,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,7,2,0,62,1,357,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,8,2,2,115,86,203,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,9,2,1,134,85,269,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,10,2,6,84,189,76,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,11,0,13,13,40,393,0,0,0
+1000105,TE,Richard Gordon,Eastern Michigan Eagles,12,3,3,191,191,102,0,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,1,0,0,0,0,0,4,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,2,0,0,0,0,0,1,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,3,0,0,0,0,0,6,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,4,0,0,0,0,0,3,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,5,0,0,0,0,0,1,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,6,0,0,0,0,0,3,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,7,0,0,0,0,0,0,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,8,0,0,0,0,0,3,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,9,0,0,0,0,0,3,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,10,0,0,0,0,0,1,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,11,0,0,0,0,0,6,0,0
+1000106,k,Jeff Swift,Eastern Michigan Eagles,12,0,0,0,0,0,2,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,1,0,0,0,0,0,0,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,2,0,0,0,0,0,1,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,3,0,0,0,0,0,4,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,4,0,0,0,0,0,6,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,5,0,0,0,0,0,2,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,6,0,0,0,0,0,2,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,7,0,0,0,0,0,3,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,8,0,0,0,0,0,0,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,9,0,0,0,0,0,4,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,10,0,0,0,0,0,6,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,11,0,0,0,0,0,4,0,0
+1000107,k,Bryan Parker,Eastern Michigan Eagles,12,0,0,0,0,0,0,0,0
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,1,0,0,0,0,0,0,16,5
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,2,0,0,0,0,0,0,39,4
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,3,0,0,0,0,0,0,0,5
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,4,0,0,0,0,0,0,42,0
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,5,0,0,0,0,0,0,15,2
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,6,0,0,0,0,0,0,39,4
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,7,0,0,0,0,0,0,16,2
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,8,0,0,0,0,0,0,38,5
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,9,0,0,0,0,0,0,12,1
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,10,0,0,0,0,0,0,39,0
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,11,0,0,0,0,0,0,34,0
+1000108,D,Eastern Michigan Eagles,Eastern Michigan Eagles,12,0,0,0,0,0,0,55,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,1,2,8,41,119,268,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,2,3,4,190,131,74,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,3,4,8,166,240,20,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,4,0,12,192,151,178,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,5,3,4,138,151,322,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,6,1,9,18,15,41,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,7,0,8,34,133,79,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,8,1,9,182,94,133,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,9,3,12,11,109,376,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,10,0,9,97,173,377,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,11,0,5,103,118,231,0,0,0
+1000109,QB,Peter Harrison,Kent State Golden Flashes,12,1,5,100,19,227,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,1,2,5,64,245,34,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,2,3,2,13,26,359,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,3,2,3,170,216,288,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,4,0,7,131,33,32,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,5,4,3,113,45,203,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,6,4,4,40,193,343,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,7,4,8,146,24,72,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,8,2,11,81,23,135,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,9,4,7,161,222,91,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,10,0,4,26,25,377,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,11,2,4,169,176,316,0,0,0
+1000110,QB,Franklin Wayne,Kent State Golden Flashes,12,0,1,98,243,337,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,1,3,10,104,75,229,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,2,0,2,98,111,127,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,3,1,7,162,89,164,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,4,4,7,106,187,10,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,5,1,12,118,128,167,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,6,3,6,107,211,231,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,7,2,0,129,80,148,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,8,3,1,85,133,286,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,9,0,10,110,106,203,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,10,4,6,43,176,355,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,11,3,10,156,173,191,0,0,0
+1000111,QB,Matt Jobs,Kent State Golden Flashes,12,4,5,61,147,219,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,1,1,6,16,145,113,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,2,2,8,90,18,209,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,3,3,2,167,43,273,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,4,4,7,119,177,178,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,5,4,11,159,23,343,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,6,4,4,74,117,51,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,7,1,4,155,160,287,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,8,4,7,179,71,125,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,9,0,4,73,155,18,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,10,0,2,140,215,6,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,11,2,1,143,58,176,0,0,0
+1000112,RB,John James,Kent State Golden Flashes,12,3,1,101,181,173,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,1,2,2,179,48,14,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,2,1,5,115,90,19,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,3,1,2,141,35,43,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,4,1,1,122,170,218,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,5,4,3,85,129,213,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,6,1,10,129,220,174,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,7,3,12,15,215,314,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,8,1,3,142,207,91,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,9,0,0,8,208,333,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,10,1,6,196,199,129,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,11,4,9,20,96,79,0,0,0
+1000113,RB,Mohammad Johnson,Kent State Golden Flashes,12,2,8,160,12,142,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,1,0,13,41,130,210,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,2,0,7,136,129,4,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,3,4,3,72,202,202,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,4,3,11,196,153,137,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,5,2,11,188,68,136,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,6,4,10,16,35,79,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,7,3,7,68,201,158,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,8,3,5,40,206,264,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,9,4,8,51,43,152,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,10,4,0,162,122,243,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,11,2,13,72,77,397,0,0,0
+1000114,RB,Thomas Harrison,Kent State Golden Flashes,12,2,13,19,237,300,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,1,3,10,166,153,265,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,2,4,5,13,144,191,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,3,2,11,110,1,77,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,4,1,4,93,66,356,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,5,1,8,187,32,73,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,6,4,11,132,84,200,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,7,4,0,11,167,367,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,8,4,9,101,84,397,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,9,2,0,113,162,208,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,10,2,13,96,10,232,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,11,4,6,15,239,253,0,0,0
+1000115,RB,Thomas Clinton,Kent State Golden Flashes,12,2,13,63,26,113,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,1,1,4,142,90,194,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,2,2,1,183,25,198,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,3,0,10,118,190,157,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,4,4,0,56,62,256,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,5,3,10,7,83,177,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,6,4,5,44,246,78,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,7,4,13,147,151,239,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,8,1,8,70,184,329,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,9,1,13,32,91,196,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,10,0,13,130,180,88,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,11,4,9,11,159,304,0,0,0
+1000116,WR,Jarvis Clinton,Kent State Golden Flashes,12,4,5,104,134,369,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,1,0,11,199,223,286,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,2,0,9,155,239,375,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,3,2,8,153,52,308,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,4,4,13,62,181,98,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,5,0,6,129,43,117,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,6,2,5,21,93,217,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,7,2,1,167,132,289,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,8,4,10,181,121,285,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,9,0,1,180,134,30,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,10,4,2,43,180,140,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,11,2,3,77,117,129,0,0,0
+1000117,WR,Ralph Johnson,Kent State Golden Flashes,12,0,6,16,219,190,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,1,0,12,26,183,331,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,2,0,12,165,154,209,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,3,4,10,181,151,47,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,4,0,3,151,29,81,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,5,2,1,76,100,127,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,6,2,0,43,163,209,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,7,4,1,36,176,296,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,8,0,13,17,96,203,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,9,4,12,77,23,70,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,10,1,6,107,232,94,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,11,4,3,177,94,347,0,0,0
+1000118,WR,George Kent,Kent State Golden Flashes,12,3,11,73,119,250,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,1,2,0,72,225,228,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,2,4,3,6,146,166,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,3,2,9,179,172,340,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,4,4,8,168,250,98,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,5,4,9,122,197,396,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,6,1,9,69,57,7,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,7,2,11,27,196,88,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,8,3,6,57,242,27,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,9,0,3,154,172,144,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,10,0,1,183,217,246,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,11,1,11,83,30,89,0,0,0
+1000119,WR,Micheal Jobs,Kent State Golden Flashes,12,3,0,60,181,310,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,1,1,7,109,134,337,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,2,0,11,26,36,42,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,3,2,1,188,152,135,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,4,1,4,108,165,210,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,5,0,6,96,131,306,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,6,1,5,139,145,108,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,7,4,3,156,40,122,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,8,2,2,167,230,163,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,9,3,9,167,42,70,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,10,2,2,147,187,12,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,11,2,4,19,14,102,0,0,0
+1000120,WR,Eric Kennedy,Kent State Golden Flashes,12,0,6,51,117,248,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,1,1,4,175,61,16,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,2,3,9,181,141,84,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,3,4,13,34,127,94,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,4,2,3,144,122,241,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,5,2,8,185,188,300,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,6,0,10,25,220,188,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,7,1,7,120,144,105,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,8,2,5,110,221,74,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,9,2,7,40,170,242,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,10,2,13,8,38,323,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,11,1,2,110,105,122,0,0,0
+1000121,WR,Micheal Kennedy,Kent State Golden Flashes,12,1,5,171,3,71,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,1,3,3,53,194,217,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,2,3,0,28,250,286,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,3,3,9,74,39,325,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,4,2,7,158,69,334,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,5,4,11,190,140,37,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,6,3,12,152,235,375,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,7,2,1,172,48,5,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,8,2,10,22,30,378,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,9,1,9,79,16,204,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,10,1,0,126,158,362,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,11,2,6,197,7,320,0,0,0
+1000122,TE,Anthony Lincoln,Kent State Golden Flashes,12,3,4,37,47,303,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,1,0,12,106,177,351,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,2,0,1,97,210,266,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,3,0,8,188,35,363,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,4,1,13,48,183,352,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,5,2,12,191,212,164,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,6,2,1,34,163,396,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,7,3,10,15,226,339,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,8,3,13,140,227,73,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,9,1,12,161,83,223,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,10,1,13,172,14,12,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,11,0,0,112,219,229,0,0,0
+1000123,TE,Brett Parker,Kent State Golden Flashes,12,1,0,29,153,169,0,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,1,0,0,0,0,0,4,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,2,0,0,0,0,0,3,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,3,0,0,0,0,0,6,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,4,0,0,0,0,0,2,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,5,0,0,0,0,0,5,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,6,0,0,0,0,0,2,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,7,0,0,0,0,0,5,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,8,0,0,0,0,0,5,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,9,0,0,0,0,0,3,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,10,0,0,0,0,0,4,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,11,0,0,0,0,0,1,0,0
+1000124,k,Micheal Coolage,Kent State Golden Flashes,12,0,0,0,0,0,4,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,1,0,0,0,0,0,2,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,2,0,0,0,0,0,5,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,3,0,0,0,0,0,1,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,4,0,0,0,0,0,5,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,5,0,0,0,0,0,3,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,6,0,0,0,0,0,5,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,7,0,0,0,0,0,5,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,8,0,0,0,0,0,3,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,9,0,0,0,0,0,1,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,10,0,0,0,0,0,4,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,11,0,0,0,0,0,4,0,0
+1000125,k,Steve Coolage,Kent State Golden Flashes,12,0,0,0,0,0,6,0,0
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,1,0,0,0,0,0,0,38,4
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,2,0,0,0,0,0,0,32,3
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,3,0,0,0,0,0,0,15,0
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,4,0,0,0,0,0,0,40,3
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,5,0,0,0,0,0,0,41,4
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,6,0,0,0,0,0,0,8,0
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,7,0,0,0,0,0,0,18,3
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,8,0,0,0,0,0,0,1,1
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,9,0,0,0,0,0,0,15,2
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,10,0,0,0,0,0,0,28,1
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,11,0,0,0,0,0,0,5,5
+1000126,D,Kent State Golden Flashes,Kent State Golden Flashes,12,0,0,0,0,0,0,1,1
+1000127,QB,Donald Cooper,Miami RedHawks,1,1,13,11,179,215,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,2,4,4,88,225,201,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,3,0,10,182,164,8,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,4,4,9,122,250,47,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,5,2,10,118,43,349,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,6,3,10,166,7,358,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,7,0,12,152,167,189,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,8,3,3,16,215,111,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,9,0,1,28,47,155,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,10,3,9,69,175,134,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,11,3,11,119,132,295,0,0,0
+1000127,QB,Donald Cooper,Miami RedHawks,12,2,5,147,182,272,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,1,2,2,51,49,176,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,2,4,12,161,157,132,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,3,0,2,37,234,233,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,4,0,5,173,153,280,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,5,0,12,37,205,372,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,6,3,6,39,225,109,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,7,2,6,0,124,151,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,8,1,7,75,2,385,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,9,1,4,164,232,141,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,10,2,10,98,244,370,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,11,3,0,148,209,164,0,0,0
+1000128,QB,Adam Hoover,Miami RedHawks,12,1,1,95,25,312,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,1,0,11,150,217,225,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,2,3,3,92,203,218,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,3,4,11,198,194,47,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,4,3,9,157,211,132,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,5,0,2,194,20,209,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,6,2,2,2,76,380,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,7,2,4,160,241,111,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,8,3,2,54,180,38,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,9,4,1,132,75,241,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,10,3,5,100,26,17,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,11,1,11,149,242,167,0,0,0
+1000129,QB,Ronald Kennedy,Miami RedHawks,12,2,7,193,29,182,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,1,1,7,55,241,303,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,2,0,0,134,32,273,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,3,0,10,31,53,345,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,4,3,6,76,162,278,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,5,3,8,159,216,147,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,6,3,2,33,69,380,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,7,3,6,198,68,126,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,8,0,10,94,95,45,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,9,2,1,5,242,369,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,10,4,12,77,241,288,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,11,4,0,75,132,182,0,0,0
+1000130,RB,Cal Swift,Miami RedHawks,12,4,4,38,7,2,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,1,2,2,134,81,150,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,2,3,1,56,148,167,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,3,0,5,110,40,396,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,4,4,0,101,50,235,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,5,0,11,141,69,163,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,6,4,3,49,225,317,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,7,4,9,190,134,280,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,8,4,10,106,117,9,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,9,3,6,139,220,7,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,10,1,1,84,82,396,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,11,4,5,92,83,270,0,0,0
+1000131,RB,Jeff Harrison,Miami RedHawks,12,2,1,65,158,181,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,1,0,9,92,232,265,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,2,1,7,55,13,190,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,3,4,5,53,86,231,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,4,1,9,156,207,375,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,5,2,8,81,77,18,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,6,2,2,102,101,362,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,7,4,7,197,80,90,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,8,1,1,152,161,149,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,9,2,4,89,104,383,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,10,1,10,62,147,313,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,11,2,4,24,219,354,0,0,0
+1000132,RB,Farhan Romanoff,Miami RedHawks,12,3,7,130,144,109,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,1,1,6,17,137,67,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,2,3,7,28,188,259,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,3,0,0,133,156,107,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,4,3,4,115,183,59,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,5,3,6,153,215,35,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,6,1,11,178,8,163,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,7,3,2,29,242,3,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,8,3,2,174,144,275,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,9,1,8,124,209,196,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,10,3,12,19,34,350,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,11,3,11,86,175,145,0,0,0
+1000133,RB,Nick Murray,Miami RedHawks,12,1,13,147,156,84,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,1,2,9,49,250,168,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,2,2,4,113,131,374,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,3,2,9,156,235,96,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,4,2,10,65,95,88,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,5,1,1,25,64,248,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,6,3,1,16,228,22,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,7,4,3,11,198,298,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,8,1,12,113,197,30,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,9,3,6,76,98,231,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,10,2,11,74,121,268,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,11,1,3,0,225,344,0,0,0
+1000134,WR,Jordan Leonard,Miami RedHawks,12,0,12,104,80,392,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,1,1,3,55,50,211,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,2,2,4,120,21,290,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,3,0,3,191,201,173,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,4,4,5,144,140,132,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,5,0,10,150,50,75,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,6,3,3,200,70,88,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,7,2,0,84,76,81,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,8,2,1,182,223,64,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,9,1,2,158,169,367,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,10,4,4,193,189,143,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,11,3,5,37,140,224,0,0,0
+1000135,WR,Larry Hoover,Miami RedHawks,12,2,7,41,163,324,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,1,0,12,140,57,291,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,2,0,10,175,85,192,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,3,3,6,16,194,188,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,4,1,1,6,74,255,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,5,4,1,145,211,47,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,6,3,7,150,117,335,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,7,0,13,42,168,72,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,8,0,9,24,216,332,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,9,1,11,197,128,186,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,10,4,12,169,76,326,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,11,2,3,44,209,359,0,0,0
+1000136,WR,Samuel Cooper,Miami RedHawks,12,1,0,176,108,314,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,1,4,6,191,62,272,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,2,1,6,59,49,2,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,3,0,13,96,164,396,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,4,3,13,91,223,130,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,5,3,11,144,228,142,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,6,3,1,83,138,39,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,7,4,13,74,19,68,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,8,3,8,56,149,196,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,9,1,11,152,230,10,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,10,1,2,24,219,214,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,11,4,2,71,122,172,0,0,0
+1000137,WR,Bo Murray,Miami RedHawks,12,1,4,24,41,390,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,1,1,1,17,68,35,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,2,0,6,114,246,279,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,3,4,9,134,228,320,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,4,1,5,163,98,214,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,5,4,13,26,162,10,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,6,1,4,198,61,158,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,7,2,5,66,159,62,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,8,0,5,147,11,38,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,9,0,9,134,113,127,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,10,3,11,31,87,220,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,11,0,9,89,128,120,0,0,0
+1000138,WR,Rudy Washinton,Miami RedHawks,12,1,12,81,135,164,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,1,2,8,93,232,288,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,2,3,0,68,198,140,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,3,4,0,104,236,124,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,4,0,2,27,148,225,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,5,4,1,13,204,221,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,6,3,2,56,106,357,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,7,0,2,82,123,253,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,8,4,7,28,180,52,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,9,3,2,27,48,307,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,10,1,10,160,100,10,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,11,1,5,110,131,234,0,0,0
+1000139,WR,Henry Kent,Miami RedHawks,12,2,4,189,141,205,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,1,4,5,51,175,380,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,2,2,12,166,91,352,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,3,3,2,197,230,54,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,4,4,9,162,172,392,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,5,2,4,0,246,93,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,6,0,5,51,45,309,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,7,4,11,43,236,328,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,8,3,11,63,46,25,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,9,2,12,195,206,82,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,10,3,1,167,56,92,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,11,3,3,142,20,80,0,0,0
+1000140,TE,Donald Leonard,Miami RedHawks,12,3,1,189,183,113,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,1,1,3,138,22,260,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,2,1,2,84,202,190,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,3,2,3,128,82,222,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,4,1,11,16,92,166,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,5,1,6,183,7,123,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,6,1,2,100,91,186,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,7,2,10,127,224,303,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,8,4,9,60,228,252,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,9,3,13,57,157,47,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,10,1,6,21,72,83,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,11,2,4,31,228,290,0,0,0
+1000141,TE,Ronald Leonard,Miami RedHawks,12,4,3,127,113,98,0,0,0
+1000142,k,Roger Harrison,Miami RedHawks,1,0,0,0,0,0,2,0,0
+1000142,k,Roger Harrison,Miami RedHawks,2,0,0,0,0,0,6,0,0
+1000142,k,Roger Harrison,Miami RedHawks,3,0,0,0,0,0,2,0,0
+1000142,k,Roger Harrison,Miami RedHawks,4,0,0,0,0,0,0,0,0
+1000142,k,Roger Harrison,Miami RedHawks,5,0,0,0,0,0,2,0,0
+1000142,k,Roger Harrison,Miami RedHawks,6,0,0,0,0,0,3,0,0
+1000142,k,Roger Harrison,Miami RedHawks,7,0,0,0,0,0,3,0,0
+1000142,k,Roger Harrison,Miami RedHawks,8,0,0,0,0,0,3,0,0
+1000142,k,Roger Harrison,Miami RedHawks,9,0,0,0,0,0,4,0,0
+1000142,k,Roger Harrison,Miami RedHawks,10,0,0,0,0,0,6,0,0
+1000142,k,Roger Harrison,Miami RedHawks,11,0,0,0,0,0,5,0,0
+1000142,k,Roger Harrison,Miami RedHawks,12,0,0,0,0,0,6,0,0
+1000143,k,Peter Love,Miami RedHawks,1,0,0,0,0,0,0,0,0
+1000143,k,Peter Love,Miami RedHawks,2,0,0,0,0,0,1,0,0
+1000143,k,Peter Love,Miami RedHawks,3,0,0,0,0,0,3,0,0
+1000143,k,Peter Love,Miami RedHawks,4,0,0,0,0,0,3,0,0
+1000143,k,Peter Love,Miami RedHawks,5,0,0,0,0,0,2,0,0
+1000143,k,Peter Love,Miami RedHawks,6,0,0,0,0,0,1,0,0
+1000143,k,Peter Love,Miami RedHawks,7,0,0,0,0,0,0,0,0
+1000143,k,Peter Love,Miami RedHawks,8,0,0,0,0,0,4,0,0
+1000143,k,Peter Love,Miami RedHawks,9,0,0,0,0,0,2,0,0
+1000143,k,Peter Love,Miami RedHawks,10,0,0,0,0,0,1,0,0
+1000143,k,Peter Love,Miami RedHawks,11,0,0,0,0,0,2,0,0
+1000143,k,Peter Love,Miami RedHawks,12,0,0,0,0,0,2,0,0
+1000144,D,Miami RedHawks,Miami RedHawks,1,0,0,0,0,0,0,18,3
+1000144,D,Miami RedHawks,Miami RedHawks,2,0,0,0,0,0,0,16,2
+1000144,D,Miami RedHawks,Miami RedHawks,3,0,0,0,0,0,0,50,5
+1000144,D,Miami RedHawks,Miami RedHawks,4,0,0,0,0,0,0,3,2
+1000144,D,Miami RedHawks,Miami RedHawks,5,0,0,0,0,0,0,52,4
+1000144,D,Miami RedHawks,Miami RedHawks,6,0,0,0,0,0,0,22,0
+1000144,D,Miami RedHawks,Miami RedHawks,7,0,0,0,0,0,0,14,2
+1000144,D,Miami RedHawks,Miami RedHawks,8,0,0,0,0,0,0,26,1
+1000144,D,Miami RedHawks,Miami RedHawks,9,0,0,0,0,0,0,8,2
+1000144,D,Miami RedHawks,Miami RedHawks,10,0,0,0,0,0,0,7,5
+1000144,D,Miami RedHawks,Miami RedHawks,11,0,0,0,0,0,0,3,1
+1000144,D,Miami RedHawks,Miami RedHawks,12,0,0,0,0,0,0,0,4
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,1,1,3,114,59,183,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,2,3,13,48,149,372,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,3,4,3,22,201,284,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,4,4,10,71,203,95,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,5,4,8,197,147,218,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,6,4,10,58,174,383,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,7,3,3,81,85,162,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,8,2,7,156,177,327,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,9,4,10,134,191,290,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,10,2,11,183,79,360,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,11,3,6,91,73,210,0,0,0
+1000145,QB,Benjamin Mcdonald,Northern Illinois Huskies,12,3,2,39,220,85,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,1,3,11,95,114,352,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,2,2,8,123,84,265,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,3,4,6,9,28,326,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,4,0,6,3,222,8,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,5,0,10,194,176,174,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,6,3,0,184,147,204,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,7,1,2,160,145,149,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,8,3,10,147,58,105,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,9,0,11,84,58,128,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,10,3,7,41,248,352,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,11,1,8,147,109,111,0,0,0
+1000146,QB,Nick Brady,Northern Illinois Huskies,12,3,10,6,157,191,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,1,2,7,18,205,47,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,2,2,2,117,61,333,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,3,2,13,159,203,182,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,4,1,9,11,15,263,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,5,2,12,132,249,227,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,6,3,1,101,25,234,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,7,2,1,71,91,233,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,8,4,11,50,166,43,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,9,1,11,119,203,377,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,10,1,3,111,27,324,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,11,4,5,89,71,364,0,0,0
+1000147,QB,Richard Harrison,Northern Illinois Huskies,12,4,2,81,250,224,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,1,4,6,159,145,220,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,2,2,3,173,179,49,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,3,3,11,108,84,142,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,4,0,6,143,185,154,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,5,0,5,93,1,393,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,6,3,8,45,116,157,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,7,2,2,23,28,221,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,8,1,3,77,35,328,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,9,0,3,153,97,326,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,10,0,13,17,224,185,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,11,3,12,128,216,301,0,0,0
+1000148,RB,Nick Murray,Northern Illinois Huskies,12,1,11,109,204,266,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,1,0,10,44,171,290,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,2,1,0,5,131,272,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,3,1,8,183,134,41,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,4,2,7,28,139,152,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,5,0,10,59,121,231,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,6,4,5,41,78,149,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,7,4,12,62,38,246,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,8,4,4,179,41,204,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,9,0,8,125,239,265,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,10,0,13,109,225,67,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,11,2,13,41,128,205,0,0,0
+1000149,RB,Adam Quill,Northern Illinois Huskies,12,1,3,29,235,156,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,1,2,7,177,61,100,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,2,2,3,131,247,286,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,3,3,2,169,54,400,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,4,3,13,6,70,60,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,5,3,7,55,173,270,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,6,3,1,13,61,240,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,7,4,8,116,184,88,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,8,3,2,84,148,82,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,9,4,8,189,154,226,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,10,4,12,6,63,377,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,11,3,1,34,88,173,0,0,0
+1000150,RB,Farhan Lincoln,Northern Illinois Huskies,12,4,1,29,69,78,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,1,3,6,90,198,114,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,2,1,0,169,117,309,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,3,4,3,144,96,275,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,4,3,11,95,6,84,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,5,2,5,132,140,220,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,6,1,12,128,243,357,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,7,1,3,198,87,37,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,8,1,0,108,198,343,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,9,0,0,147,233,384,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,10,1,7,169,242,56,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,11,2,6,196,216,195,0,0,0
+1000151,RB,Zack Quill,Northern Illinois Huskies,12,3,12,119,140,372,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,1,2,4,50,93,270,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,2,4,6,44,250,167,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,3,4,8,17,242,107,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,4,4,6,160,32,307,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,5,3,6,132,147,88,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,6,1,12,4,10,150,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,7,0,0,186,97,345,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,8,4,1,101,127,262,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,9,4,0,54,53,182,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,10,1,1,111,102,257,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,11,4,11,5,42,188,0,0,0
+1000152,WR,George Kent,Northern Illinois Huskies,12,1,5,160,193,278,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,1,0,1,82,163,342,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,2,4,4,35,14,182,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,3,1,11,4,243,229,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,4,2,0,193,215,32,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,5,4,8,158,20,355,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,6,1,2,186,192,357,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,7,4,3,113,99,39,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,8,3,3,65,137,134,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,9,3,1,117,186,110,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,10,3,2,130,79,271,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,11,4,5,10,19,344,0,0,0
+1000153,WR,Farhan Johnson,Northern Illinois Huskies,12,2,3,74,31,90,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,1,4,11,41,124,225,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,2,4,2,197,244,158,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,3,2,0,15,237,306,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,4,2,13,107,21,359,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,5,0,4,57,212,7,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,6,0,2,47,187,246,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,7,0,12,9,58,154,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,8,2,13,52,176,245,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,9,4,1,181,74,118,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,10,4,6,38,75,81,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,11,2,6,122,186,133,0,0,0
+1000154,WR,Adam Clinton,Northern Illinois Huskies,12,3,4,84,84,46,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,1,3,13,200,29,252,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,2,3,8,46,12,106,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,3,4,7,194,161,68,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,4,3,9,35,53,7,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,5,0,11,14,40,254,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,6,3,10,26,238,191,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,7,4,11,180,3,47,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,8,1,13,163,213,165,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,9,2,11,43,178,157,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,10,3,5,25,103,0,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,11,4,5,33,22,43,0,0,0
+1000155,WR,Matt Coolage,Northern Illinois Huskies,12,4,6,63,134,369,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,1,0,11,158,36,57,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,2,2,0,140,172,89,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,3,3,6,81,16,377,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,4,1,12,132,132,224,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,5,4,13,155,109,388,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,6,0,13,61,139,340,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,7,2,3,37,65,43,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,8,3,2,116,116,151,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,9,0,4,39,160,314,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,10,2,13,0,163,219,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,11,3,9,52,184,0,0,0,0
+1000156,WR,Donald Wayne,Northern Illinois Huskies,12,2,7,175,9,344,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,1,1,9,60,171,209,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,2,0,11,5,15,34,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,3,4,8,157,198,120,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,4,0,5,66,49,158,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,5,0,1,161,178,236,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,6,0,7,111,164,0,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,7,4,3,106,208,247,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,8,0,0,18,51,13,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,9,4,4,13,10,282,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,10,0,7,160,129,375,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,11,3,5,130,134,146,0,0,0
+1000157,WR,William Murray,Northern Illinois Huskies,12,0,1,43,179,286,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,1,0,11,12,57,134,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,2,2,1,37,226,85,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,3,1,13,155,131,63,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,4,1,7,126,93,40,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,5,1,12,71,215,373,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,6,2,13,59,121,263,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,7,2,11,93,80,222,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,8,3,3,9,193,400,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,9,3,4,74,234,360,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,10,3,0,91,112,274,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,11,0,8,114,12,99,0,0,0
+1000158,TE,Nick Clinton,Northern Illinois Huskies,12,0,1,6,200,336,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,1,4,7,166,62,110,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,2,1,5,118,32,46,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,3,0,7,153,146,282,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,4,0,12,5,236,389,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,5,2,4,114,113,89,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,6,3,9,125,230,319,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,7,3,13,165,171,15,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,8,0,11,43,13,359,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,9,2,1,60,25,122,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,10,2,13,194,159,66,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,11,2,2,14,9,170,0,0,0
+1000159,TE,Bo Bush,Northern Illinois Huskies,12,0,6,103,36,204,0,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,1,0,0,0,0,0,1,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,2,0,0,0,0,0,6,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,3,0,0,0,0,0,4,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,4,0,0,0,0,0,5,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,5,0,0,0,0,0,5,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,6,0,0,0,0,0,4,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,7,0,0,0,0,0,0,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,8,0,0,0,0,0,2,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,9,0,0,0,0,0,6,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,10,0,0,0,0,0,1,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,11,0,0,0,0,0,5,0,0
+1000160,k,Micheal Bush,Northern Illinois Huskies,12,0,0,0,0,0,1,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,1,0,0,0,0,0,2,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,2,0,0,0,0,0,5,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,3,0,0,0,0,0,4,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,4,0,0,0,0,0,0,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,5,0,0,0,0,0,2,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,6,0,0,0,0,0,0,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,7,0,0,0,0,0,6,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,8,0,0,0,0,0,6,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,9,0,0,0,0,0,6,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,10,0,0,0,0,0,2,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,11,0,0,0,0,0,4,0,0
+1000161,k,Mark Wilson,Northern Illinois Huskies,12,0,0,0,0,0,1,0,0
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,1,0,0,0,0,0,0,38,5
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,2,0,0,0,0,0,0,24,0
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,3,0,0,0,0,0,0,12,2
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,4,0,0,0,0,0,0,41,5
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,5,0,0,0,0,0,0,40,1
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,6,0,0,0,0,0,0,10,1
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,7,0,0,0,0,0,0,45,4
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,8,0,0,0,0,0,0,14,0
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,9,0,0,0,0,0,0,10,1
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,10,0,0,0,0,0,0,22,2
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,11,0,0,0,0,0,0,35,4
+1000162,D,Northern Illinois Huskies,Northern Illinois Huskies,12,0,0,0,0,0,0,32,5
+1000163,QB,Brett Brady,Ohio Bobcats,1,2,4,160,103,397,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,2,2,6,89,190,6,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,3,4,2,70,172,399,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,4,2,10,80,115,229,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,5,1,5,98,73,325,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,6,3,5,109,111,83,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,7,0,0,41,138,72,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,8,4,3,91,237,278,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,9,0,8,20,52,210,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,10,2,7,74,20,368,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,11,0,10,165,216,265,0,0,0
+1000163,QB,Brett Brady,Ohio Bobcats,12,4,7,134,26,137,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,1,0,3,156,157,15,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,2,4,7,151,106,283,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,3,0,5,80,68,366,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,4,0,8,189,129,335,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,5,2,6,60,215,270,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,6,2,11,88,154,62,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,7,1,10,156,100,179,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,8,3,4,173,112,310,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,9,3,1,43,181,104,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,10,2,1,124,110,202,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,11,4,10,180,137,241,0,0,0
+1000164,QB,Bryan Washinton,Ohio Bobcats,12,2,4,76,223,102,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,1,0,3,57,230,312,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,2,3,10,23,148,289,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,3,0,1,169,139,63,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,4,4,12,41,52,330,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,5,3,11,55,250,187,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,6,3,13,32,183,257,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,7,1,0,13,133,61,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,8,3,13,138,31,97,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,9,3,4,72,243,212,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,10,3,9,67,127,56,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,11,1,11,97,32,350,0,0,0
+1000165,QB,Kyle Purdy,Ohio Bobcats,12,3,4,2,161,67,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,1,2,5,184,207,24,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,2,0,13,108,83,170,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,3,4,2,123,54,258,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,4,4,10,47,152,202,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,5,2,10,198,214,52,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,6,2,7,76,43,87,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,7,0,4,39,76,264,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,8,3,9,193,132,297,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,9,2,7,40,164,50,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,10,2,6,160,130,216,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,11,3,0,129,103,142,0,0,0
+1000166,RB,Jordan Johnson,Ohio Bobcats,12,4,0,89,92,77,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,1,1,5,172,58,211,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,2,0,9,71,195,347,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,3,4,13,175,179,385,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,4,1,13,85,66,228,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,5,4,11,140,151,367,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,6,3,0,68,77,113,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,7,2,7,144,137,218,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,8,3,2,60,142,394,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,9,4,6,192,44,29,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,10,1,0,200,29,190,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,11,0,2,123,103,220,0,0,0
+1000167,RB,Franklin Pitt,Ohio Bobcats,12,1,3,96,229,313,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,1,3,9,127,188,282,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,2,0,9,24,31,2,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,3,3,2,197,227,88,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,4,2,6,72,239,364,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,5,0,3,30,250,209,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,6,2,10,100,53,46,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,7,2,5,168,56,116,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,8,0,4,124,166,129,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,9,2,12,149,214,127,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,10,3,2,34,134,31,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,11,3,6,3,193,9,0,0,0
+1000168,RB,Adam Jefferson,Ohio Bobcats,12,1,4,58,55,40,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,1,2,6,21,89,64,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,2,0,6,101,193,298,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,3,1,11,187,136,76,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,4,2,1,81,171,50,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,5,2,13,112,169,174,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,6,2,12,80,41,28,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,7,0,2,115,53,349,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,8,4,0,191,184,255,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,9,0,0,52,134,140,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,10,2,0,74,196,370,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,11,3,2,118,115,203,0,0,0
+1000169,RB,Eric Herman,Ohio Bobcats,12,2,8,136,183,297,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,1,1,11,13,59,373,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,2,1,9,106,188,92,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,3,2,5,199,184,26,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,4,1,6,197,186,171,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,5,3,12,91,128,322,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,6,0,7,44,173,196,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,7,0,9,55,27,75,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,8,3,2,156,160,378,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,9,3,11,70,120,292,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,10,0,5,184,192,20,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,11,0,11,66,119,251,0,0,0
+1000170,WR,Franklin Mahomes,Ohio Bobcats,12,0,2,31,49,61,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,1,4,4,57,50,209,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,2,2,0,137,228,29,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,3,1,10,168,0,152,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,4,2,0,67,16,2,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,5,3,3,10,161,20,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,6,0,3,173,2,329,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,7,1,13,28,175,274,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,8,3,13,103,75,373,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,9,3,13,184,137,129,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,10,4,4,61,188,228,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,11,1,13,167,99,241,0,0,0
+1000171,WR,William Parker,Ohio Bobcats,12,0,3,35,86,266,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,1,0,10,197,182,12,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,2,2,7,73,92,393,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,3,1,3,142,145,7,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,4,1,0,66,11,247,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,5,4,1,94,8,352,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,6,2,1,10,76,357,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,7,3,4,174,41,328,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,8,0,11,149,179,327,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,9,3,11,28,178,135,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,10,0,8,50,97,144,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,11,1,1,3,132,345,0,0,0
+1000172,WR,Henry James,Ohio Bobcats,12,4,13,138,169,201,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,1,2,1,146,199,100,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,2,3,4,90,24,156,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,3,0,2,59,149,3,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,4,3,8,22,219,229,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,5,3,2,48,78,105,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,6,4,9,39,183,226,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,7,0,12,65,204,22,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,8,1,3,103,93,81,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,9,1,10,15,40,38,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,10,3,13,9,199,329,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,11,4,11,174,239,312,0,0,0
+1000173,WR,Terry Murray,Ohio Bobcats,12,4,0,52,70,270,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,1,2,5,73,113,154,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,2,1,9,140,79,103,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,3,2,6,20,217,54,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,4,0,6,8,6,64,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,5,2,11,121,223,189,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,6,3,6,149,0,20,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,7,3,6,112,203,198,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,8,2,7,115,140,23,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,9,3,3,90,222,247,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,10,2,1,159,31,29,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,11,2,10,94,216,348,0,0,0
+1000174,WR,George Johnson,Ohio Bobcats,12,3,2,141,106,93,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,1,1,2,188,70,18,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,2,3,11,94,20,50,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,3,4,13,176,184,380,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,4,2,5,167,224,85,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,5,4,13,36,226,373,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,6,0,7,20,132,217,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,7,2,3,76,56,0,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,8,1,7,170,161,389,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,9,0,11,105,72,355,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,10,4,1,195,84,335,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,11,3,12,77,27,194,0,0,0
+1000175,WR,Peter Kent,Ohio Bobcats,12,2,11,115,196,276,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,1,2,10,109,7,55,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,2,2,3,154,202,398,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,3,3,5,4,132,273,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,4,3,5,52,158,106,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,5,2,0,116,248,140,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,6,1,2,198,240,243,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,7,3,7,176,89,86,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,8,0,9,121,148,6,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,9,3,12,27,13,29,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,10,2,1,33,102,99,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,11,3,11,175,36,234,0,0,0
+1000176,TE,Calvin Gordo,Ohio Bobcats,12,2,1,172,112,351,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,1,0,0,140,236,247,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,2,1,8,23,4,9,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,3,3,6,105,30,132,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,4,0,1,104,94,140,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,5,0,13,135,21,62,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,6,4,4,92,60,381,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,7,1,3,194,112,364,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,8,4,10,179,32,75,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,9,1,10,13,32,285,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,10,1,13,112,223,375,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,11,2,5,162,71,247,0,0,0
+1000177,TE,John Downey,Ohio Bobcats,12,0,8,29,141,90,0,0,0
+1000178,k,Eric Murray,Ohio Bobcats,1,0,0,0,0,0,1,0,0
+1000178,k,Eric Murray,Ohio Bobcats,2,0,0,0,0,0,3,0,0
+1000178,k,Eric Murray,Ohio Bobcats,3,0,0,0,0,0,6,0,0
+1000178,k,Eric Murray,Ohio Bobcats,4,0,0,0,0,0,2,0,0
+1000178,k,Eric Murray,Ohio Bobcats,5,0,0,0,0,0,1,0,0
+1000178,k,Eric Murray,Ohio Bobcats,6,0,0,0,0,0,6,0,0
+1000178,k,Eric Murray,Ohio Bobcats,7,0,0,0,0,0,1,0,0
+1000178,k,Eric Murray,Ohio Bobcats,8,0,0,0,0,0,5,0,0
+1000178,k,Eric Murray,Ohio Bobcats,9,0,0,0,0,0,3,0,0
+1000178,k,Eric Murray,Ohio Bobcats,10,0,0,0,0,0,0,0,0
+1000178,k,Eric Murray,Ohio Bobcats,11,0,0,0,0,0,2,0,0
+1000178,k,Eric Murray,Ohio Bobcats,12,0,0,0,0,0,0,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,1,0,0,0,0,0,3,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,2,0,0,0,0,0,3,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,3,0,0,0,0,0,3,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,4,0,0,0,0,0,3,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,5,0,0,0,0,0,1,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,6,0,0,0,0,0,1,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,7,0,0,0,0,0,4,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,8,0,0,0,0,0,5,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,9,0,0,0,0,0,5,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,10,0,0,0,0,0,5,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,11,0,0,0,0,0,6,0,0
+1000179,k,Roger Wayne,Ohio Bobcats,12,0,0,0,0,0,3,0,0
+1000180,D,Ohio Bobcats,Ohio Bobcats,1,0,0,0,0,0,0,45,4
+1000180,D,Ohio Bobcats,Ohio Bobcats,2,0,0,0,0,0,0,4,3
+1000180,D,Ohio Bobcats,Ohio Bobcats,3,0,0,0,0,0,0,12,1
+1000180,D,Ohio Bobcats,Ohio Bobcats,4,0,0,0,0,0,0,24,1
+1000180,D,Ohio Bobcats,Ohio Bobcats,5,0,0,0,0,0,0,3,2
+1000180,D,Ohio Bobcats,Ohio Bobcats,6,0,0,0,0,0,0,15,2
+1000180,D,Ohio Bobcats,Ohio Bobcats,7,0,0,0,0,0,0,50,3
+1000180,D,Ohio Bobcats,Ohio Bobcats,8,0,0,0,0,0,0,23,5
+1000180,D,Ohio Bobcats,Ohio Bobcats,9,0,0,0,0,0,0,42,4
+1000180,D,Ohio Bobcats,Ohio Bobcats,10,0,0,0,0,0,0,38,3
+1000180,D,Ohio Bobcats,Ohio Bobcats,11,0,0,0,0,0,0,38,5
+1000180,D,Ohio Bobcats,Ohio Bobcats,12,0,0,0,0,0,0,41,5
+1000181,QB,Jimmy Pierce,Toledo Rockets,1,4,10,170,175,398,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,2,1,1,67,122,43,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,3,4,3,1,80,99,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,4,1,9,74,204,376,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,5,1,6,122,231,179,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,6,1,6,107,116,100,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,7,0,13,150,100,309,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,8,2,3,41,207,137,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,9,3,4,169,71,52,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,10,4,6,30,34,179,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,11,3,2,50,88,322,0,0,0
+1000181,QB,Jimmy Pierce,Toledo Rockets,12,0,3,102,219,342,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,1,0,3,41,103,375,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,2,1,3,6,157,260,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,3,2,9,60,20,261,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,4,4,5,34,42,224,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,5,4,9,118,158,100,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,6,0,7,94,110,198,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,7,2,1,28,139,240,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,8,3,12,114,242,217,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,9,0,2,200,86,103,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,10,2,10,34,35,161,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,11,3,4,68,238,183,0,0,0
+1000182,QB,Micheal Kent,Toledo Rockets,12,1,0,7,31,334,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,1,1,3,177,96,68,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,2,4,2,53,167,215,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,3,2,7,134,128,188,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,4,3,10,63,103,222,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,5,0,4,51,37,84,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,6,2,10,74,118,87,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,7,4,8,65,116,234,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,8,3,3,96,80,323,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,9,0,0,148,226,394,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,10,3,8,41,1,169,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,11,3,8,93,159,74,0,0,0
+1000183,QB,Roger Filmore,Toledo Rockets,12,0,12,13,81,228,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,1,2,11,102,135,384,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,2,0,0,198,111,332,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,3,0,5,101,38,13,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,4,0,12,160,141,333,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,5,2,10,22,194,317,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,6,1,5,101,46,130,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,7,2,8,161,246,252,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,8,1,7,185,167,269,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,9,1,1,52,220,110,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,10,4,2,177,54,81,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,11,3,12,27,250,160,0,0,0
+1000184,RB,Tom Heartly,Toledo Rockets,12,2,12,58,22,19,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,1,2,5,10,16,169,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,2,4,4,133,94,148,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,3,3,2,188,167,238,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,4,3,13,54,242,356,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,5,2,13,38,169,245,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,6,1,8,172,193,371,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,7,2,6,94,158,304,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,8,4,2,22,142,389,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,9,4,13,155,156,221,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,10,2,1,32,14,385,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,11,1,5,147,194,100,0,0,0
+1000185,RB,Steve Jobs,Toledo Rockets,12,2,5,4,156,121,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,1,0,2,178,20,386,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,2,0,12,62,228,359,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,3,1,0,176,239,178,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,4,3,8,122,249,212,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,5,2,4,148,163,176,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,6,0,10,54,160,99,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,7,0,7,158,218,223,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,8,0,5,168,17,135,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,9,4,7,48,160,121,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,10,4,2,166,61,53,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,11,0,12,167,142,177,0,0,0
+1000186,RB,Henry Quill,Toledo Rockets,12,4,7,108,105,294,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,1,2,12,170,15,118,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,2,3,2,166,34,362,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,3,2,8,38,23,198,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,4,4,3,175,131,92,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,5,0,9,62,235,274,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,6,4,3,195,39,84,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,7,1,4,13,247,86,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,8,4,7,191,222,382,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,9,2,0,190,225,226,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,10,1,6,187,207,259,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,11,0,2,169,245,172,0,0,0
+1000187,RB,Gary Jobs,Toledo Rockets,12,3,8,52,78,4,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,1,0,13,28,29,393,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,2,0,12,180,167,349,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,3,1,3,141,120,118,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,4,1,9,171,6,116,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,5,3,1,40,54,245,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,6,4,4,9,1,72,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,7,0,0,92,14,266,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,8,0,6,161,51,279,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,9,4,2,71,24,262,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,10,2,11,32,121,48,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,11,4,6,75,28,121,0,0,0
+1000188,WR,Micheal Mahomes,Toledo Rockets,12,1,9,30,98,362,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,1,1,3,144,32,97,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,2,0,8,121,191,239,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,3,0,7,32,234,325,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,4,3,7,165,230,246,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,5,0,6,84,85,59,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,6,1,8,16,207,226,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,7,3,2,109,0,349,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,8,3,4,146,31,134,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,9,1,2,140,222,283,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,10,4,12,18,121,213,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,11,1,10,167,162,33,0,0,0
+1000189,WR,Ronald Mcdonald,Toledo Rockets,12,1,9,170,68,336,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,1,2,2,118,55,236,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,2,3,8,92,124,50,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,3,2,1,194,43,83,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,4,0,13,118,72,319,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,5,2,3,114,141,398,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,6,0,9,186,95,223,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,7,4,12,181,79,312,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,8,0,9,37,25,103,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,9,1,8,73,91,163,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,10,2,7,166,169,280,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,11,3,13,174,117,327,0,0,0
+1000190,WR,Jose Johnson,Toledo Rockets,12,1,7,104,170,244,0,0,0
+1000191,WR,William Brady,Toledo Rockets,1,2,5,55,201,141,0,0,0
+1000191,WR,William Brady,Toledo Rockets,2,3,11,199,17,89,0,0,0
+1000191,WR,William Brady,Toledo Rockets,3,0,13,30,144,70,0,0,0
+1000191,WR,William Brady,Toledo Rockets,4,1,6,121,76,376,0,0,0
+1000191,WR,William Brady,Toledo Rockets,5,3,1,129,77,7,0,0,0
+1000191,WR,William Brady,Toledo Rockets,6,2,3,81,70,79,0,0,0
+1000191,WR,William Brady,Toledo Rockets,7,4,12,186,113,107,0,0,0
+1000191,WR,William Brady,Toledo Rockets,8,1,7,73,45,230,0,0,0
+1000191,WR,William Brady,Toledo Rockets,9,4,6,130,236,90,0,0,0
+1000191,WR,William Brady,Toledo Rockets,10,1,12,120,183,254,0,0,0
+1000191,WR,William Brady,Toledo Rockets,11,0,12,199,15,121,0,0,0
+1000191,WR,William Brady,Toledo Rockets,12,3,4,123,94,361,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,1,0,0,200,69,153,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,2,2,9,66,79,275,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,3,3,13,90,106,60,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,4,4,7,141,25,53,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,5,1,2,45,121,94,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,6,0,7,117,108,385,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,7,3,6,108,240,50,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,8,3,10,143,194,310,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,9,4,9,195,241,94,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,10,2,7,126,250,21,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,11,2,5,2,78,121,0,0,0
+1000192,WR,Corey Mcdonald,Toledo Rockets,12,3,6,29,49,71,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,1,1,11,4,110,80,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,2,1,11,103,9,1,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,3,4,11,162,212,128,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,4,3,1,12,133,337,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,5,4,8,195,146,270,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,6,4,3,15,238,260,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,7,0,5,133,50,276,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,8,4,5,178,101,237,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,9,2,4,194,203,213,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,10,4,3,79,58,111,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,11,0,1,162,152,267,0,0,0
+1000193,WR,Rudy Hoover,Toledo Rockets,12,2,4,46,2,320,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,1,2,5,5,132,221,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,2,2,3,73,245,196,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,3,1,0,120,200,311,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,4,2,7,194,19,117,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,5,4,10,136,102,219,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,6,2,8,62,3,170,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,7,1,6,159,217,39,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,8,4,10,129,12,389,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,9,2,4,60,111,189,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,10,1,8,85,105,119,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,11,2,6,129,221,106,0,0,0
+1000194,TE,Mark Mcdonald,Toledo Rockets,12,3,3,87,73,306,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,1,4,2,63,48,399,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,2,4,11,164,6,335,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,3,1,3,176,175,256,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,4,4,1,193,44,347,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,5,3,6,33,57,27,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,6,2,1,101,71,394,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,7,2,1,104,11,207,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,8,2,1,124,145,34,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,9,1,8,166,74,390,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,10,4,8,98,120,141,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,11,3,5,63,140,267,0,0,0
+1000195,TE,Richard Johnson,Toledo Rockets,12,1,11,64,194,195,0,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,1,0,0,0,0,0,2,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,2,0,0,0,0,0,2,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,3,0,0,0,0,0,3,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,4,0,0,0,0,0,5,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,5,0,0,0,0,0,4,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,6,0,0,0,0,0,3,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,7,0,0,0,0,0,6,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,8,0,0,0,0,0,6,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,9,0,0,0,0,0,5,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,10,0,0,0,0,0,0,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,11,0,0,0,0,0,4,0,0
+1000196,k,LeBron Jefferson,Toledo Rockets,12,0,0,0,0,0,3,0,0
+1000197,k,Donald Jobs,Toledo Rockets,1,0,0,0,0,0,4,0,0
+1000197,k,Donald Jobs,Toledo Rockets,2,0,0,0,0,0,2,0,0
+1000197,k,Donald Jobs,Toledo Rockets,3,0,0,0,0,0,4,0,0
+1000197,k,Donald Jobs,Toledo Rockets,4,0,0,0,0,0,0,0,0
+1000197,k,Donald Jobs,Toledo Rockets,5,0,0,0,0,0,2,0,0
+1000197,k,Donald Jobs,Toledo Rockets,6,0,0,0,0,0,3,0,0
+1000197,k,Donald Jobs,Toledo Rockets,7,0,0,0,0,0,5,0,0
+1000197,k,Donald Jobs,Toledo Rockets,8,0,0,0,0,0,3,0,0
+1000197,k,Donald Jobs,Toledo Rockets,9,0,0,0,0,0,5,0,0
+1000197,k,Donald Jobs,Toledo Rockets,10,0,0,0,0,0,4,0,0
+1000197,k,Donald Jobs,Toledo Rockets,11,0,0,0,0,0,5,0,0
+1000197,k,Donald Jobs,Toledo Rockets,12,0,0,0,0,0,1,0,0
+1000198,D,Toledo Rockets,Toledo Rockets,1,0,0,0,0,0,0,22,3
+1000198,D,Toledo Rockets,Toledo Rockets,2,0,0,0,0,0,0,11,5
+1000198,D,Toledo Rockets,Toledo Rockets,3,0,0,0,0,0,0,7,5
+1000198,D,Toledo Rockets,Toledo Rockets,4,0,0,0,0,0,0,21,0
+1000198,D,Toledo Rockets,Toledo Rockets,5,0,0,0,0,0,0,32,4
+1000198,D,Toledo Rockets,Toledo Rockets,6,0,0,0,0,0,0,10,2
+1000198,D,Toledo Rockets,Toledo Rockets,7,0,0,0,0,0,0,46,2
+1000198,D,Toledo Rockets,Toledo Rockets,8,0,0,0,0,0,0,20,3
+1000198,D,Toledo Rockets,Toledo Rockets,9,0,0,0,0,0,0,53,4
+1000198,D,Toledo Rockets,Toledo Rockets,10,0,0,0,0,0,0,53,5
+1000198,D,Toledo Rockets,Toledo Rockets,11,0,0,0,0,0,0,54,2
+1000198,D,Toledo Rockets,Toledo Rockets,12,0,0,0,0,0,0,52,3
+1000199,QB,Micheal Smith,Western Michigan Broncos,1,1,9,64,16,336,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,2,2,12,105,153,274,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,3,2,9,43,240,111,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,4,0,3,16,161,334,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,5,0,0,189,231,45,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,6,4,1,47,141,277,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,7,1,7,142,84,286,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,8,0,13,158,144,160,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,9,4,9,134,25,126,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,10,1,10,104,71,5,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,11,0,6,122,26,21,0,0,0
+1000199,QB,Micheal Smith,Western Michigan Broncos,12,1,2,109,73,382,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,1,2,7,128,164,57,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,2,0,13,173,234,94,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,3,4,7,11,132,0,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,4,2,2,41,153,358,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,5,2,8,17,103,227,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,6,1,5,103,248,2,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,7,3,8,146,55,379,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,8,4,6,125,72,42,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,9,1,0,42,169,127,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,10,1,1,123,41,97,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,11,2,12,120,97,7,0,0,0
+1000200,QB,Bo Herman,Western Michigan Broncos,12,1,11,187,96,267,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,1,1,3,35,56,369,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,2,3,13,22,128,133,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,3,0,3,11,75,321,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,4,2,6,41,100,61,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,5,1,7,125,143,187,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,6,3,9,93,103,229,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,7,3,11,117,160,216,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,8,2,1,79,184,210,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,9,1,0,57,100,81,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,10,2,13,7,65,113,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,11,4,10,200,244,41,0,0,0
+1000201,QB,Thomas Swift,Western Michigan Broncos,12,1,8,9,14,169,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,1,1,0,139,147,185,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,2,3,11,186,53,217,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,3,4,7,122,32,323,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,4,2,8,96,10,67,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,5,4,9,39,227,295,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,6,3,8,43,191,107,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,7,4,9,134,239,312,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,8,2,2,17,139,41,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,9,4,10,163,199,117,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,10,1,7,174,35,138,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,11,4,9,129,17,115,0,0,0
+1000202,RB,C.J. Kelce,Western Michigan Broncos,12,4,3,43,58,104,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,1,2,6,121,242,237,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,2,3,9,63,46,222,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,3,2,6,148,212,355,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,4,4,12,150,124,153,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,5,0,12,28,109,294,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,6,2,6,120,220,182,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,7,1,0,27,124,260,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,8,1,1,32,212,131,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,9,1,9,57,108,94,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,10,2,10,114,147,175,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,11,4,7,92,134,253,0,0,0
+1000203,RB,Sean Kennedy,Western Michigan Broncos,12,3,9,150,236,232,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,1,4,13,88,35,175,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,2,4,0,167,16,264,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,3,0,10,128,64,325,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,4,3,7,35,81,354,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,5,2,0,148,48,110,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,6,1,11,68,68,271,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,7,4,10,45,90,95,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,8,3,2,174,110,337,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,9,0,0,151,206,320,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,10,2,4,44,131,353,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,11,2,7,152,155,109,0,0,0
+1000204,RB,George Allen,Western Michigan Broncos,12,3,4,176,102,151,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,1,2,2,2,211,213,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,2,1,4,163,25,246,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,3,0,8,61,131,102,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,4,2,8,62,66,309,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,5,2,10,170,208,100,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,6,4,10,166,36,107,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,7,4,9,185,115,67,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,8,1,1,176,226,310,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,9,1,5,193,170,274,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,10,2,11,159,108,276,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,11,1,2,77,19,307,0,0,0
+1000205,RB,Jeff Romanoff,Western Michigan Broncos,12,0,6,19,142,147,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,1,0,6,29,91,378,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,2,1,1,178,23,20,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,3,1,10,199,130,164,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,4,0,1,69,76,12,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,5,2,7,38,23,117,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,6,0,8,156,193,331,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,7,2,7,89,64,317,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,8,1,10,200,187,320,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,9,0,6,141,29,161,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,10,2,5,165,65,89,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,11,2,6,106,147,50,0,0,0
+1000206,WR,Zack Herman,Western Michigan Broncos,12,0,13,103,155,333,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,1,2,8,188,180,259,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,2,0,6,133,195,311,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,3,2,2,69,161,394,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,4,1,10,171,172,44,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,5,4,3,26,47,50,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,6,2,1,57,244,234,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,7,3,9,137,180,77,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,8,1,5,109,42,203,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,9,0,1,182,195,125,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,10,3,1,99,223,251,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,11,3,0,23,72,336,0,0,0
+1000207,WR,Joshua Gordon,Western Michigan Broncos,12,4,2,62,173,381,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,1,0,1,17,160,69,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,2,4,13,32,64,45,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,3,3,8,120,181,87,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,4,0,6,190,96,44,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,5,1,1,136,180,221,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,6,1,5,40,40,364,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,7,2,8,39,134,316,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,8,2,8,147,249,330,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,9,0,13,137,201,23,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,10,3,7,60,68,41,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,11,1,5,187,31,319,0,0,0
+1000208,WR,Anthony Romanoff,Western Michigan Broncos,12,3,12,112,166,333,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,1,1,7,26,221,55,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,2,1,9,47,75,229,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,3,4,10,136,79,311,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,4,0,4,20,103,396,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,5,1,2,162,246,381,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,6,0,10,145,187,353,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,7,1,10,66,212,166,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,8,2,7,62,244,174,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,9,4,0,41,16,235,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,10,4,12,162,67,245,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,11,0,12,73,76,15,0,0,0
+1000209,WR,Donald Jefferson,Western Michigan Broncos,12,2,4,106,206,222,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,1,3,4,117,24,301,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,2,4,6,14,146,386,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,3,2,11,133,102,33,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,4,0,6,186,105,67,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,5,3,6,37,77,339,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,6,0,1,21,237,153,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,7,1,3,134,109,349,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,8,4,2,171,63,18,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,9,0,10,65,235,132,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,10,3,5,135,198,104,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,11,3,9,11,182,261,0,0,0
+1000210,WR,Ronald Gordon,Western Michigan Broncos,12,0,7,189,239,252,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,1,3,13,159,142,282,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,2,3,11,165,55,304,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,3,3,11,89,51,30,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,4,2,13,0,16,21,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,5,2,10,143,88,108,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,6,0,1,65,249,64,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,7,1,3,88,235,125,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,8,2,0,81,153,60,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,9,1,0,126,113,241,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,10,4,0,122,138,120,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,11,3,11,119,57,252,0,0,0
+1000211,WR,Hunter Obama,Western Michigan Broncos,12,0,12,95,130,310,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,1,3,11,141,244,0,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,2,4,2,53,191,329,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,3,3,12,155,215,63,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,4,3,3,110,100,351,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,5,4,10,12,53,227,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,6,0,9,186,78,166,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,7,0,7,181,170,205,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,8,3,3,60,17,148,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,9,2,10,72,123,79,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,10,0,12,117,0,236,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,11,4,8,15,168,324,0,0,0
+1000212,TE,Franklin Golden,Western Michigan Broncos,12,2,1,70,216,85,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,1,0,0,47,63,372,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,2,2,9,14,181,75,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,3,0,7,125,75,3,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,4,3,1,128,172,355,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,5,3,5,35,197,275,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,6,3,2,193,150,67,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,7,1,3,55,10,41,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,8,2,13,105,5,274,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,9,1,11,111,186,77,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,10,2,9,84,37,287,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,11,3,1,126,140,350,0,0,0
+1000213,TE,Matt Lincoln,Western Michigan Broncos,12,1,0,37,189,258,0,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,1,0,0,0,0,0,5,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,2,0,0,0,0,0,1,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,3,0,0,0,0,0,6,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,4,0,0,0,0,0,4,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,5,0,0,0,0,0,2,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,6,0,0,0,0,0,2,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,7,0,0,0,0,0,4,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,8,0,0,0,0,0,2,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,9,0,0,0,0,0,6,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,10,0,0,0,0,0,4,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,11,0,0,0,0,0,6,0,0
+1000214,k,Ronald Kennedy,Western Michigan Broncos,12,0,0,0,0,0,5,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,1,0,0,0,0,0,4,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,2,0,0,0,0,0,1,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,3,0,0,0,0,0,6,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,4,0,0,0,0,0,6,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,5,0,0,0,0,0,3,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,6,0,0,0,0,0,2,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,7,0,0,0,0,0,3,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,8,0,0,0,0,0,2,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,9,0,0,0,0,0,6,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,10,0,0,0,0,0,6,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,11,0,0,0,0,0,2,0,0
+1000215,k,Gary Filmore,Western Michigan Broncos,12,0,0,0,0,0,2,0,0
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,1,0,0,0,0,0,0,49,3
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,2,0,0,0,0,0,0,18,5
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,3,0,0,0,0,0,0,37,5
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,4,0,0,0,0,0,0,33,3
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,5,0,0,0,0,0,0,7,1
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,6,0,0,0,0,0,0,11,0
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,7,0,0,0,0,0,0,32,1
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,8,0,0,0,0,0,0,33,4
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,9,0,0,0,0,0,0,29,3
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,10,0,0,0,0,0,0,46,1
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,11,0,0,0,0,0,0,16,1
+1000216,D,Western Michigan Broncos,Western Michigan Broncos,12,0,0,0,0,0,0,1,1
